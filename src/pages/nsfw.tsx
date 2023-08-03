@@ -3,34 +3,23 @@ import { Button } from '@/components/ui/button'
 import { Card, PCard } from '@/components/card'
 import Link from 'next/link'
 import { InferGetStaticPropsType } from 'next'
-import {
-  AlertDialog,
-  AlertDialogAction,
-  AlertDialogCancel,
-  AlertDialogContent,
-  AlertDialogDescription,
-  AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogTitle,
-  AlertDialogTrigger,
-} from "@/components/ui/alert-dialog"
 
 export const getStaticProps = async () => {
   const artworks = (await import("../data/artworks.json")).default;
-  const safes = artworks.filter((i) => {return i.age_limit === "all"})
-  const safe = safes.slice(0, 10)
-  const seed = Math.floor(Math.random()*safes.length)
-  const random = safes.slice(seed, seed+10)
+  const nsfws = artworks.filter((i) => {return i.age_limit !== "all"})
+  const nsfw = nsfws.slice(0, 10)
+  const seed = Math.floor(Math.random()*nsfws.length)
+  const random = nsfws.slice(seed, seed+10)
 
   const tags = (await import("../data/tags.json")).default.slice(0, 10);
   const ranking = (await import("../data/ranking.json")).default.slice(0, 5);
   const pranking = (await import("../data/pranking.json")).default;
 
-  return { props: { safe, random, tags, ranking, pranking } }
+  return { props: { nsfw, random, tags, ranking, pranking } }
 }
 
 
-export default function Home({ safe, random, tags, ranking, pranking }: InferGetStaticPropsType<typeof getStaticProps>) {
+export default function Home({ nsfw, random, tags, ranking, pranking }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <section className="space-y-16">
       <HScroll className='flex overflow-x-auto gap-x-4 w-full hide-scroll'>
@@ -43,34 +32,16 @@ export default function Home({ safe, random, tags, ranking, pranking }: InferGet
         })}
       </HScroll>
       <div className='flex gap-x-4 justify-end'>
-        <Button variant="black" size="lg" asChild>
+        <Button variant="white" size="lg" asChild>
           <Link href="/">
             全年齢
           </Link>
         </Button>
-        <AlertDialog>
-          <AlertDialogTrigger asChild>
-            <Button variant="white" size="lg">
-              NSFW
-            </Button>
-          </AlertDialogTrigger>
-          <AlertDialogContent>
-            <AlertDialogHeader>
-              <AlertDialogTitle>本当に表示しますか？</AlertDialogTitle>
-              <AlertDialogDescription>
-                未成年や職場での閲覧に不適切な画像が含まれます
-              </AlertDialogDescription>
-            </AlertDialogHeader>
-            <AlertDialogFooter>
-              <AlertDialogCancel>キャンセル</AlertDialogCancel>
-              <AlertDialogAction asChild>
-                <Link href="/nsfw">
-                  続ける
-                </Link>
-              </AlertDialogAction>
-            </AlertDialogFooter>
-          </AlertDialogContent>
-        </AlertDialog>
+        <Button variant="black" size="lg" asChild>
+          <Link href="/nsfw">
+            NSFW
+          </Link>
+        </Button>
       </div>
       <div>
         <div className='flex justify-between items-end'>
@@ -78,7 +49,7 @@ export default function Home({ safe, random, tags, ranking, pranking }: InferGet
           <Link href="/all" className='text-xs'>すべて見る</Link>
         </div>
         <div className='pt-8 image-grid'>
-          {safe.map((i) => {
+          {nsfw.map((i) => {
             return (
               <Card
                 key={i.id}

@@ -1,0 +1,7398 @@
+[
+  {
+      "key": "100",
+      "values": "💯"
+  },
+  {
+      "key": "1234",
+      "values": "🔢"
+  },
+  {
+      "key": "grinning",
+      "values": "😀"
+  },
+  {
+      "key": "smiley",
+      "values": "😃"
+  },
+  {
+      "key": "smile",
+      "values": "😄"
+  },
+  {
+      "key": "grin",
+      "values": "😁"
+  },
+  {
+      "key": "laughing",
+      "values": "😆"
+  },
+  {
+      "key": "sweat_smile",
+      "values": "😅"
+  },
+  {
+      "key": "rolling_on_the_floor_laughing",
+      "values": "🤣"
+  },
+  {
+      "key": "joy",
+      "values": "😂"
+  },
+  {
+      "key": "slightly_smiling_face",
+      "values": "🙂"
+  },
+  {
+      "key": "upside_down_face",
+      "values": "🙃"
+  },
+  {
+      "key": "melting_face",
+      "values": "🫠"
+  },
+  {
+      "key": "wink",
+      "values": "😉"
+  },
+  {
+      "key": "blush",
+      "values": "😊"
+  },
+  {
+      "key": "innocent",
+      "values": "😇"
+  },
+  {
+      "key": "smiling_face_with_3_hearts",
+      "values": "🥰"
+  },
+  {
+      "key": "heart_eyes",
+      "values": "😍"
+  },
+  {
+      "key": "star-struck",
+      "values": "🤩"
+  },
+  {
+      "key": "kissing_heart",
+      "values": "😘"
+  },
+  {
+      "key": "kissing",
+      "values": "😗"
+  },
+  {
+      "key": "relaxed",
+      "values": "☺️"
+  },
+  {
+      "key": "kissing_closed_eyes",
+      "values": "😚"
+  },
+  {
+      "key": "kissing_smiling_eyes",
+      "values": "😙"
+  },
+  {
+      "key": "smiling_face_with_tear",
+      "values": "🥲"
+  },
+  {
+      "key": "yum",
+      "values": "😋"
+  },
+  {
+      "key": "stuck_out_tongue",
+      "values": "😛"
+  },
+  {
+      "key": "stuck_out_tongue_winking_eye",
+      "values": "😜"
+  },
+  {
+      "key": "zany_face",
+      "values": "🤪"
+  },
+  {
+      "key": "stuck_out_tongue_closed_eyes",
+      "values": "😝"
+  },
+  {
+      "key": "money_mouth_face",
+      "values": "🤑"
+  },
+  {
+      "key": "hugging_face",
+      "values": "🤗"
+  },
+  {
+      "key": "face_with_hand_over_mouth",
+      "values": "🤭"
+  },
+  {
+      "key": "face_with_open_eyes_and_hand_over_mouth",
+      "values": "🫢"
+  },
+  {
+      "key": "face_with_peeking_eye",
+      "values": "🫣"
+  },
+  {
+      "key": "shushing_face",
+      "values": "🤫"
+  },
+  {
+      "key": "thinking_face",
+      "values": "🤔"
+  },
+  {
+      "key": "saluting_face",
+      "values": "🫡"
+  },
+  {
+      "key": "zipper_mouth_face",
+      "values": "🤐"
+  },
+  {
+      "key": "face_with_raised_eyebrow",
+      "values": "🤨"
+  },
+  {
+      "key": "neutral_face",
+      "values": "😐"
+  },
+  {
+      "key": "expressionless",
+      "values": "😑"
+  },
+  {
+      "key": "no_mouth",
+      "values": "😶"
+  },
+  {
+      "key": "dotted_line_face",
+      "values": "🫥"
+  },
+  {
+      "key": "face_in_clouds",
+      "values": "😶‍🌫️"
+  },
+  {
+      "key": "smirk",
+      "values": "😏"
+  },
+  {
+      "key": "unamused",
+      "values": "😒"
+  },
+  {
+      "key": "face_with_rolling_eyes",
+      "values": "🙄"
+  },
+  {
+      "key": "grimacing",
+      "values": "😬"
+  },
+  {
+      "key": "face_exhaling",
+      "values": "😮‍💨"
+  },
+  {
+      "key": "lying_face",
+      "values": "🤥"
+  },
+  {
+      "key": "relieved",
+      "values": "😌"
+  },
+  {
+      "key": "pensive",
+      "values": "😔"
+  },
+  {
+      "key": "sleepy",
+      "values": "😪"
+  },
+  {
+      "key": "drooling_face",
+      "values": "🤤"
+  },
+  {
+      "key": "sleeping",
+      "values": "😴"
+  },
+  {
+      "key": "mask",
+      "values": "😷"
+  },
+  {
+      "key": "face_with_thermometer",
+      "values": "🤒"
+  },
+  {
+      "key": "face_with_head_bandage",
+      "values": "🤕"
+  },
+  {
+      "key": "nauseated_face",
+      "values": "🤢"
+  },
+  {
+      "key": "face_vomiting",
+      "values": "🤮"
+  },
+  {
+      "key": "sneezing_face",
+      "values": "🤧"
+  },
+  {
+      "key": "hot_face",
+      "values": "🥵"
+  },
+  {
+      "key": "cold_face",
+      "values": "🥶"
+  },
+  {
+      "key": "woozy_face",
+      "values": "🥴"
+  },
+  {
+      "key": "dizzy_face",
+      "values": "😵"
+  },
+  {
+      "key": "face_with_spiral_eyes",
+      "values": "😵‍💫"
+  },
+  {
+      "key": "exploding_head",
+      "values": "🤯"
+  },
+  {
+      "key": "face_with_cowboy_hat",
+      "values": "🤠"
+  },
+  {
+      "key": "partying_face",
+      "values": "🥳"
+  },
+  {
+      "key": "disguised_face",
+      "values": "🥸"
+  },
+  {
+      "key": "sunglasses",
+      "values": "😎"
+  },
+  {
+      "key": "nerd_face",
+      "values": "🤓"
+  },
+  {
+      "key": "face_with_monocle",
+      "values": "🧐"
+  },
+  {
+      "key": "confused",
+      "values": "😕"
+  },
+  {
+      "key": "face_with_diagonal_mouth",
+      "values": "🫤"
+  },
+  {
+      "key": "worried",
+      "values": "😟"
+  },
+  {
+      "key": "slightly_frowning_face",
+      "values": "🙁"
+  },
+  {
+      "key": "white_frowning_face",
+      "values": "☹️"
+  },
+  {
+      "key": "open_mouth",
+      "values": "😮"
+  },
+  {
+      "key": "hushed",
+      "values": "😯"
+  },
+  {
+      "key": "astonished",
+      "values": "😲"
+  },
+  {
+      "key": "flushed",
+      "values": "😳"
+  },
+  {
+      "key": "pleading_face",
+      "values": "🥺"
+  },
+  {
+      "key": "face_holding_back_tears",
+      "values": "🥹"
+  },
+  {
+      "key": "frowning",
+      "values": "😦"
+  },
+  {
+      "key": "anguished",
+      "values": "😧"
+  },
+  {
+      "key": "fearful",
+      "values": "😨"
+  },
+  {
+      "key": "cold_sweat",
+      "values": "😰"
+  },
+  {
+      "key": "disappointed_relieved",
+      "values": "😥"
+  },
+  {
+      "key": "cry",
+      "values": "😢"
+  },
+  {
+      "key": "sob",
+      "values": "😭"
+  },
+  {
+      "key": "scream",
+      "values": "😱"
+  },
+  {
+      "key": "confounded",
+      "values": "😖"
+  },
+  {
+      "key": "persevere",
+      "values": "😣"
+  },
+  {
+      "key": "disappointed",
+      "values": "😞"
+  },
+  {
+      "key": "sweat",
+      "values": "😓"
+  },
+  {
+      "key": "weary",
+      "values": "😩"
+  },
+  {
+      "key": "tired_face",
+      "values": "😫"
+  },
+  {
+      "key": "yawning_face",
+      "values": "🥱"
+  },
+  {
+      "key": "triumph",
+      "values": "😤"
+  },
+  {
+      "key": "rage",
+      "values": "😡"
+  },
+  {
+      "key": "angry",
+      "values": "😠"
+  },
+  {
+      "key": "face_with_symbols_on_mouth",
+      "values": "🤬"
+  },
+  {
+      "key": "smiling_imp",
+      "values": "😈"
+  },
+  {
+      "key": "imp",
+      "values": "👿"
+  },
+  {
+      "key": "skull",
+      "values": "💀"
+  },
+  {
+      "key": "skull_and_crossbones",
+      "values": "☠️"
+  },
+  {
+      "key": "hankey",
+      "values": "💩"
+  },
+  {
+      "key": "clown_face",
+      "values": "🤡"
+  },
+  {
+      "key": "japanese_ogre",
+      "values": "👹"
+  },
+  {
+      "key": "japanese_goblin",
+      "values": "👺"
+  },
+  {
+      "key": "ghost",
+      "values": "👻"
+  },
+  {
+      "key": "alien",
+      "values": "👽"
+  },
+  {
+      "key": "space_invader",
+      "values": "👾"
+  },
+  {
+      "key": "robot_face",
+      "values": "🤖"
+  },
+  {
+      "key": "smiley_cat",
+      "values": "😺"
+  },
+  {
+      "key": "smile_cat",
+      "values": "😸"
+  },
+  {
+      "key": "joy_cat",
+      "values": "😹"
+  },
+  {
+      "key": "heart_eyes_cat",
+      "values": "😻"
+  },
+  {
+      "key": "smirk_cat",
+      "values": "😼"
+  },
+  {
+      "key": "kissing_cat",
+      "values": "😽"
+  },
+  {
+      "key": "scream_cat",
+      "values": "🙀"
+  },
+  {
+      "key": "crying_cat_face",
+      "values": "😿"
+  },
+  {
+      "key": "pouting_cat",
+      "values": "😾"
+  },
+  {
+      "key": "see_no_evil",
+      "values": "🙈"
+  },
+  {
+      "key": "hear_no_evil",
+      "values": "🙉"
+  },
+  {
+      "key": "speak_no_evil",
+      "values": "🙊"
+  },
+  {
+      "key": "kiss",
+      "values": "💋"
+  },
+  {
+      "key": "love_letter",
+      "values": "💌"
+  },
+  {
+      "key": "cupid",
+      "values": "💘"
+  },
+  {
+      "key": "gift_heart",
+      "values": "💝"
+  },
+  {
+      "key": "sparkling_heart",
+      "values": "💖"
+  },
+  {
+      "key": "heartpulse",
+      "values": "💗"
+  },
+  {
+      "key": "heartbeat",
+      "values": "💓"
+  },
+  {
+      "key": "revolving_hearts",
+      "values": "💞"
+  },
+  {
+      "key": "two_hearts",
+      "values": "💕"
+  },
+  {
+      "key": "heart_decoration",
+      "values": "💟"
+  },
+  {
+      "key": "heavy_heart_exclamation_mark_ornament",
+      "values": "❣️"
+  },
+  {
+      "key": "broken_heart",
+      "values": "💔"
+  },
+  {
+      "key": "heart_on_fire",
+      "values": "❤️‍🔥"
+  },
+  {
+      "key": "mending_heart",
+      "values": "❤️‍🩹"
+  },
+  {
+      "key": "heart",
+      "values": "❤️"
+  },
+  {
+      "key": "orange_heart",
+      "values": "🧡"
+  },
+  {
+      "key": "yellow_heart",
+      "values": "💛"
+  },
+  {
+      "key": "green_heart",
+      "values": "💚"
+  },
+  {
+      "key": "blue_heart",
+      "values": "💙"
+  },
+  {
+      "key": "purple_heart",
+      "values": "💜"
+  },
+  {
+      "key": "brown_heart",
+      "values": "🤎"
+  },
+  {
+      "key": "black_heart",
+      "values": "🖤"
+  },
+  {
+      "key": "white_heart",
+      "values": "🤍"
+  },
+  {
+      "key": "anger",
+      "values": "💢"
+  },
+  {
+      "key": "boom",
+      "values": "💥"
+  },
+  {
+      "key": "dizzy",
+      "values": "💫"
+  },
+  {
+      "key": "sweat_drops",
+      "values": "💦"
+  },
+  {
+      "key": "dash",
+      "values": "💨"
+  },
+  {
+      "key": "hole",
+      "values": "🕳️"
+  },
+  {
+      "key": "bomb",
+      "values": "💣"
+  },
+  {
+      "key": "speech_balloon",
+      "values": "💬"
+  },
+  {
+      "key": "eye-in-speech-bubble",
+      "values": "👁️‍🗨️"
+  },
+  {
+      "key": "left_speech_bubble",
+      "values": "🗨️"
+  },
+  {
+      "key": "right_anger_bubble",
+      "values": "🗯️"
+  },
+  {
+      "key": "thought_balloon",
+      "values": "💭"
+  },
+  {
+      "key": "zzz",
+      "values": "💤"
+  },
+  {
+      "key": "wave",
+      "values": "👋"
+  },
+  {
+      "key": "raised_back_of_hand",
+      "values": "🤚"
+  },
+  {
+      "key": "raised_hand_with_fingers_splayed",
+      "values": "🖐️"
+  },
+  {
+      "key": "hand",
+      "values": "✋"
+  },
+  {
+      "key": "spock-hand",
+      "values": "🖖"
+  },
+  {
+      "key": "rightwards_hand",
+      "values": "🫱"
+  },
+  {
+      "key": "leftwards_hand",
+      "values": "🫲"
+  },
+  {
+      "key": "palm_down_hand",
+      "values": "🫳"
+  },
+  {
+      "key": "palm_up_hand",
+      "values": "🫴"
+  },
+  {
+      "key": "ok_hand",
+      "values": "👌"
+  },
+  {
+      "key": "pinched_fingers",
+      "values": "🤌"
+  },
+  {
+      "key": "pinching_hand",
+      "values": "🤏"
+  },
+  {
+      "key": "v",
+      "values": "✌️"
+  },
+  {
+      "key": "crossed_fingers",
+      "values": "🤞"
+  },
+  {
+      "key": "hand_with_index_finger_and_thumb_crossed",
+      "values": "🫰"
+  },
+  {
+      "key": "i_love_you_hand_sign",
+      "values": "🤟"
+  },
+  {
+      "key": "the_horns",
+      "values": "🤘"
+  },
+  {
+      "key": "call_me_hand",
+      "values": "🤙"
+  },
+  {
+      "key": "point_left",
+      "values": "👈"
+  },
+  {
+      "key": "point_right",
+      "values": "👉"
+  },
+  {
+      "key": "point_up_2",
+      "values": "👆"
+  },
+  {
+      "key": "middle_finger",
+      "values": "🖕"
+  },
+  {
+      "key": "point_down",
+      "values": "👇"
+  },
+  {
+      "key": "point_up",
+      "values": "☝️"
+  },
+  {
+      "key": "index_pointing_at_the_viewer",
+      "values": "🫵"
+  },
+  {
+      "key": "+1",
+      "values": "👍"
+  },
+  {
+      "key": "-1",
+      "values": "👎"
+  },
+  {
+      "key": "fist",
+      "values": "✊"
+  },
+  {
+      "key": "facepunch",
+      "values": "👊"
+  },
+  {
+      "key": "left-facing_fist",
+      "values": "🤛"
+  },
+  {
+      "key": "right-facing_fist",
+      "values": "🤜"
+  },
+  {
+      "key": "clap",
+      "values": "👏"
+  },
+  {
+      "key": "raised_hands",
+      "values": "🙌"
+  },
+  {
+      "key": "heart_hands",
+      "values": "🫶"
+  },
+  {
+      "key": "open_hands",
+      "values": "👐"
+  },
+  {
+      "key": "palms_up_together",
+      "values": "🤲"
+  },
+  {
+      "key": "handshake",
+      "values": "🤝"
+  },
+  {
+      "key": "pray",
+      "values": "🙏"
+  },
+  {
+      "key": "writing_hand",
+      "values": "✍️"
+  },
+  {
+      "key": "nail_care",
+      "values": "💅"
+  },
+  {
+      "key": "selfie",
+      "values": "🤳"
+  },
+  {
+      "key": "muscle",
+      "values": "💪"
+  },
+  {
+      "key": "mechanical_arm",
+      "values": "🦾"
+  },
+  {
+      "key": "mechanical_leg",
+      "values": "🦿"
+  },
+  {
+      "key": "leg",
+      "values": "🦵"
+  },
+  {
+      "key": "foot",
+      "values": "🦶"
+  },
+  {
+      "key": "ear",
+      "values": "👂"
+  },
+  {
+      "key": "ear_with_hearing_aid",
+      "values": "🦻"
+  },
+  {
+      "key": "nose",
+      "values": "👃"
+  },
+  {
+      "key": "brain",
+      "values": "🧠"
+  },
+  {
+      "key": "anatomical_heart",
+      "values": "🫀"
+  },
+  {
+      "key": "lungs",
+      "values": "🫁"
+  },
+  {
+      "key": "tooth",
+      "values": "🦷"
+  },
+  {
+      "key": "bone",
+      "values": "🦴"
+  },
+  {
+      "key": "eyes",
+      "values": "👀"
+  },
+  {
+      "key": "eye",
+      "values": "👁️"
+  },
+  {
+      "key": "tongue",
+      "values": "👅"
+  },
+  {
+      "key": "lips",
+      "values": "👄"
+  },
+  {
+      "key": "biting_lip",
+      "values": "🫦"
+  },
+  {
+      "key": "baby",
+      "values": "👶"
+  },
+  {
+      "key": "child",
+      "values": "🧒"
+  },
+  {
+      "key": "boy",
+      "values": "👦"
+  },
+  {
+      "key": "girl",
+      "values": "👧"
+  },
+  {
+      "key": "adult",
+      "values": "🧑"
+  },
+  {
+      "key": "person_with_blond_hair",
+      "values": "👱"
+  },
+  {
+      "key": "man",
+      "values": "👨"
+  },
+  {
+      "key": "bearded_person",
+      "values": "🧔"
+  },
+  {
+      "key": "man_with_beard",
+      "values": "🧔‍♂️"
+  },
+  {
+      "key": "woman_with_beard",
+      "values": "🧔‍♀️"
+  },
+  {
+      "key": "red_haired_man",
+      "values": "👨‍🦰"
+  },
+  {
+      "key": "curly_haired_man",
+      "values": "👨‍🦱"
+  },
+  {
+      "key": "white_haired_man",
+      "values": "👨‍🦳"
+  },
+  {
+      "key": "bald_man",
+      "values": "👨‍🦲"
+  },
+  {
+      "key": "woman",
+      "values": "👩"
+  },
+  {
+      "key": "red_haired_woman",
+      "values": "👩‍🦰"
+  },
+  {
+      "key": "red_haired_person",
+      "values": "🧑‍🦰"
+  },
+  {
+      "key": "curly_haired_woman",
+      "values": "👩‍🦱"
+  },
+  {
+      "key": "curly_haired_person",
+      "values": "🧑‍🦱"
+  },
+  {
+      "key": "white_haired_woman",
+      "values": "👩‍🦳"
+  },
+  {
+      "key": "white_haired_person",
+      "values": "🧑‍🦳"
+  },
+  {
+      "key": "bald_woman",
+      "values": "👩‍🦲"
+  },
+  {
+      "key": "bald_person",
+      "values": "🧑‍🦲"
+  },
+  {
+      "key": "blond-haired-woman",
+      "values": "👱‍♀️"
+  },
+  {
+      "key": "blond-haired-man",
+      "values": "👱‍♂️"
+  },
+  {
+      "key": "older_adult",
+      "values": "🧓"
+  },
+  {
+      "key": "older_man",
+      "values": "👴"
+  },
+  {
+      "key": "older_woman",
+      "values": "👵"
+  },
+  {
+      "key": "person_frowning",
+      "values": "🙍"
+  },
+  {
+      "key": "man-frowning",
+      "values": "🙍‍♂️"
+  },
+  {
+      "key": "woman-frowning",
+      "values": "🙍‍♀️"
+  },
+  {
+      "key": "person_with_pouting_face",
+      "values": "🙎"
+  },
+  {
+      "key": "man-pouting",
+      "values": "🙎‍♂️"
+  },
+  {
+      "key": "woman-pouting",
+      "values": "🙎‍♀️"
+  },
+  {
+      "key": "no_good",
+      "values": "🙅"
+  },
+  {
+      "key": "man-gesturing-no",
+      "values": "🙅‍♂️"
+  },
+  {
+      "key": "woman-gesturing-no",
+      "values": "🙅‍♀️"
+  },
+  {
+      "key": "ok_woman",
+      "values": "🙆"
+  },
+  {
+      "key": "man-gesturing-ok",
+      "values": "🙆‍♂️"
+  },
+  {
+      "key": "woman-gesturing-ok",
+      "values": "🙆‍♀️"
+  },
+  {
+      "key": "information_desk_person",
+      "values": "💁"
+  },
+  {
+      "key": "man-tipping-hand",
+      "values": "💁‍♂️"
+  },
+  {
+      "key": "woman-tipping-hand",
+      "values": "💁‍♀️"
+  },
+  {
+      "key": "raising_hand",
+      "values": "🙋"
+  },
+  {
+      "key": "man-raising-hand",
+      "values": "🙋‍♂️"
+  },
+  {
+      "key": "woman-raising-hand",
+      "values": "🙋‍♀️"
+  },
+  {
+      "key": "deaf_person",
+      "values": "🧏"
+  },
+  {
+      "key": "deaf_man",
+      "values": "🧏‍♂️"
+  },
+  {
+      "key": "deaf_woman",
+      "values": "🧏‍♀️"
+  },
+  {
+      "key": "bow",
+      "values": "🙇"
+  },
+  {
+      "key": "man-bowing",
+      "values": "🙇‍♂️"
+  },
+  {
+      "key": "woman-bowing",
+      "values": "🙇‍♀️"
+  },
+  {
+      "key": "face_palm",
+      "values": "🤦"
+  },
+  {
+      "key": "man-facepalming",
+      "values": "🤦‍♂️"
+  },
+  {
+      "key": "woman-facepalming",
+      "values": "🤦‍♀️"
+  },
+  {
+      "key": "shrug",
+      "values": "🤷"
+  },
+  {
+      "key": "man-shrugging",
+      "values": "🤷‍♂️"
+  },
+  {
+      "key": "woman-shrugging",
+      "values": "🤷‍♀️"
+  },
+  {
+      "key": "health_worker",
+      "values": "🧑‍⚕️"
+  },
+  {
+      "key": "male-doctor",
+      "values": "👨‍⚕️"
+  },
+  {
+      "key": "female-doctor",
+      "values": "👩‍⚕️"
+  },
+  {
+      "key": "student",
+      "values": "🧑‍🎓"
+  },
+  {
+      "key": "male-student",
+      "values": "👨‍🎓"
+  },
+  {
+      "key": "female-student",
+      "values": "👩‍🎓"
+  },
+  {
+      "key": "teacher",
+      "values": "🧑‍🏫"
+  },
+  {
+      "key": "male-teacher",
+      "values": "👨‍🏫"
+  },
+  {
+      "key": "female-teacher",
+      "values": "👩‍🏫"
+  },
+  {
+      "key": "judge",
+      "values": "🧑‍⚖️"
+  },
+  {
+      "key": "male-judge",
+      "values": "👨‍⚖️"
+  },
+  {
+      "key": "female-judge",
+      "values": "👩‍⚖️"
+  },
+  {
+      "key": "farmer",
+      "values": "🧑‍🌾"
+  },
+  {
+      "key": "male-farmer",
+      "values": "👨‍🌾"
+  },
+  {
+      "key": "female-farmer",
+      "values": "👩‍🌾"
+  },
+  {
+      "key": "cook",
+      "values": "🧑‍🍳"
+  },
+  {
+      "key": "male-cook",
+      "values": "👨‍🍳"
+  },
+  {
+      "key": "female-cook",
+      "values": "👩‍🍳"
+  },
+  {
+      "key": "mechanic",
+      "values": "🧑‍🔧"
+  },
+  {
+      "key": "male-mechanic",
+      "values": "👨‍🔧"
+  },
+  {
+      "key": "female-mechanic",
+      "values": "👩‍🔧"
+  },
+  {
+      "key": "factory_worker",
+      "values": "🧑‍🏭"
+  },
+  {
+      "key": "male-factory-worker",
+      "values": "👨‍🏭"
+  },
+  {
+      "key": "female-factory-worker",
+      "values": "👩‍🏭"
+  },
+  {
+      "key": "office_worker",
+      "values": "🧑‍💼"
+  },
+  {
+      "key": "male-office-worker",
+      "values": "👨‍💼"
+  },
+  {
+      "key": "female-office-worker",
+      "values": "👩‍💼"
+  },
+  {
+      "key": "scientist",
+      "values": "🧑‍🔬"
+  },
+  {
+      "key": "male-scientist",
+      "values": "👨‍🔬"
+  },
+  {
+      "key": "female-scientist",
+      "values": "👩‍🔬"
+  },
+  {
+      "key": "technologist",
+      "values": "🧑‍💻"
+  },
+  {
+      "key": "male-technologist",
+      "values": "👨‍💻"
+  },
+  {
+      "key": "female-technologist",
+      "values": "👩‍💻"
+  },
+  {
+      "key": "singer",
+      "values": "🧑‍🎤"
+  },
+  {
+      "key": "male-singer",
+      "values": "👨‍🎤"
+  },
+  {
+      "key": "female-singer",
+      "values": "👩‍🎤"
+  },
+  {
+      "key": "artist",
+      "values": "🧑‍🎨"
+  },
+  {
+      "key": "male-artist",
+      "values": "👨‍🎨"
+  },
+  {
+      "key": "female-artist",
+      "values": "👩‍🎨"
+  },
+  {
+      "key": "pilot",
+      "values": "🧑‍✈️"
+  },
+  {
+      "key": "male-pilot",
+      "values": "👨‍✈️"
+  },
+  {
+      "key": "female-pilot",
+      "values": "👩‍✈️"
+  },
+  {
+      "key": "astronaut",
+      "values": "🧑‍🚀"
+  },
+  {
+      "key": "male-astronaut",
+      "values": "👨‍🚀"
+  },
+  {
+      "key": "female-astronaut",
+      "values": "👩‍🚀"
+  },
+  {
+      "key": "firefighter",
+      "values": "🧑‍🚒"
+  },
+  {
+      "key": "male-firefighter",
+      "values": "👨‍🚒"
+  },
+  {
+      "key": "female-firefighter",
+      "values": "👩‍🚒"
+  },
+  {
+      "key": "cop",
+      "values": "👮"
+  },
+  {
+      "key": "male-police-officer",
+      "values": "👮‍♂️"
+  },
+  {
+      "key": "female-police-officer",
+      "values": "👮‍♀️"
+  },
+  {
+      "key": "sleuth_or_spy",
+      "values": "🕵️"
+  },
+  {
+      "key": "male-detective",
+      "values": "🕵️‍♂️"
+  },
+  {
+      "key": "female-detective",
+      "values": "🕵️‍♀️"
+  },
+  {
+      "key": "guardsman",
+      "values": "💂"
+  },
+  {
+      "key": "male-guard",
+      "values": "💂‍♂️"
+  },
+  {
+      "key": "female-guard",
+      "values": "💂‍♀️"
+  },
+  {
+      "key": "ninja",
+      "values": "🥷"
+  },
+  {
+      "key": "construction_worker",
+      "values": "👷"
+  },
+  {
+      "key": "male-construction-worker",
+      "values": "👷‍♂️"
+  },
+  {
+      "key": "female-construction-worker",
+      "values": "👷‍♀️"
+  },
+  {
+      "key": "person_with_crown",
+      "values": "🫅"
+  },
+  {
+      "key": "prince",
+      "values": "🤴"
+  },
+  {
+      "key": "princess",
+      "values": "👸"
+  },
+  {
+      "key": "man_with_turban",
+      "values": "👳"
+  },
+  {
+      "key": "man-wearing-turban",
+      "values": "👳‍♂️"
+  },
+  {
+      "key": "woman-wearing-turban",
+      "values": "👳‍♀️"
+  },
+  {
+      "key": "man_with_gua_pi_mao",
+      "values": "👲"
+  },
+  {
+      "key": "person_with_headscarf",
+      "values": "🧕"
+  },
+  {
+      "key": "person_in_tuxedo",
+      "values": "🤵"
+  },
+  {
+      "key": "man_in_tuxedo",
+      "values": "🤵‍♂️"
+  },
+  {
+      "key": "woman_in_tuxedo",
+      "values": "🤵‍♀️"
+  },
+  {
+      "key": "bride_with_veil",
+      "values": "👰"
+  },
+  {
+      "key": "man_with_veil",
+      "values": "👰‍♂️"
+  },
+  {
+      "key": "woman_with_veil",
+      "values": "👰‍♀️"
+  },
+  {
+      "key": "pregnant_woman",
+      "values": "🤰"
+  },
+  {
+      "key": "pregnant_man",
+      "values": "🫃"
+  },
+  {
+      "key": "pregnant_person",
+      "values": "🫄"
+  },
+  {
+      "key": "breast-feeding",
+      "values": "🤱"
+  },
+  {
+      "key": "woman_feeding_baby",
+      "values": "👩‍🍼"
+  },
+  {
+      "key": "man_feeding_baby",
+      "values": "👨‍🍼"
+  },
+  {
+      "key": "person_feeding_baby",
+      "values": "🧑‍🍼"
+  },
+  {
+      "key": "angel",
+      "values": "👼"
+  },
+  {
+      "key": "santa",
+      "values": "🎅"
+  },
+  {
+      "key": "mrs_claus",
+      "values": "🤶"
+  },
+  {
+      "key": "mx_claus",
+      "values": "🧑‍🎄"
+  },
+  {
+      "key": "superhero",
+      "values": "🦸"
+  },
+  {
+      "key": "male_superhero",
+      "values": "🦸‍♂️"
+  },
+  {
+      "key": "female_superhero",
+      "values": "🦸‍♀️"
+  },
+  {
+      "key": "supervillain",
+      "values": "🦹"
+  },
+  {
+      "key": "male_supervillain",
+      "values": "🦹‍♂️"
+  },
+  {
+      "key": "female_supervillain",
+      "values": "🦹‍♀️"
+  },
+  {
+      "key": "mage",
+      "values": "🧙"
+  },
+  {
+      "key": "male_mage",
+      "values": "🧙‍♂️"
+  },
+  {
+      "key": "female_mage",
+      "values": "🧙‍♀️"
+  },
+  {
+      "key": "fairy",
+      "values": "🧚"
+  },
+  {
+      "key": "male_fairy",
+      "values": "🧚‍♂️"
+  },
+  {
+      "key": "female_fairy",
+      "values": "🧚‍♀️"
+  },
+  {
+      "key": "vampire",
+      "values": "🧛"
+  },
+  {
+      "key": "male_vampire",
+      "values": "🧛‍♂️"
+  },
+  {
+      "key": "female_vampire",
+      "values": "🧛‍♀️"
+  },
+  {
+      "key": "merperson",
+      "values": "🧜"
+  },
+  {
+      "key": "merman",
+      "values": "🧜‍♂️"
+  },
+  {
+      "key": "mermaid",
+      "values": "🧜‍♀️"
+  },
+  {
+      "key": "elf",
+      "values": "🧝"
+  },
+  {
+      "key": "male_elf",
+      "values": "🧝‍♂️"
+  },
+  {
+      "key": "female_elf",
+      "values": "🧝‍♀️"
+  },
+  {
+      "key": "genie",
+      "values": "🧞"
+  },
+  {
+      "key": "male_genie",
+      "values": "🧞‍♂️"
+  },
+  {
+      "key": "female_genie",
+      "values": "🧞‍♀️"
+  },
+  {
+      "key": "zombie",
+      "values": "🧟"
+  },
+  {
+      "key": "male_zombie",
+      "values": "🧟‍♂️"
+  },
+  {
+      "key": "female_zombie",
+      "values": "🧟‍♀️"
+  },
+  {
+      "key": "troll",
+      "values": "🧌"
+  },
+  {
+      "key": "massage",
+      "values": "💆"
+  },
+  {
+      "key": "man-getting-massage",
+      "values": "💆‍♂️"
+  },
+  {
+      "key": "woman-getting-massage",
+      "values": "💆‍♀️"
+  },
+  {
+      "key": "haircut",
+      "values": "💇"
+  },
+  {
+      "key": "man-getting-haircut",
+      "values": "💇‍♂️"
+  },
+  {
+      "key": "woman-getting-haircut",
+      "values": "💇‍♀️"
+  },
+  {
+      "key": "walking",
+      "values": "🚶"
+  },
+  {
+      "key": "man-walking",
+      "values": "🚶‍♂️"
+  },
+  {
+      "key": "woman-walking",
+      "values": "🚶‍♀️"
+  },
+  {
+      "key": "standing_person",
+      "values": "🧍"
+  },
+  {
+      "key": "man_standing",
+      "values": "🧍‍♂️"
+  },
+  {
+      "key": "woman_standing",
+      "values": "🧍‍♀️"
+  },
+  {
+      "key": "kneeling_person",
+      "values": "🧎"
+  },
+  {
+      "key": "man_kneeling",
+      "values": "🧎‍♂️"
+  },
+  {
+      "key": "woman_kneeling",
+      "values": "🧎‍♀️"
+  },
+  {
+      "key": "person_with_probing_cane",
+      "values": "🧑‍🦯"
+  },
+  {
+      "key": "man_with_probing_cane",
+      "values": "👨‍🦯"
+  },
+  {
+      "key": "woman_with_probing_cane",
+      "values": "👩‍🦯"
+  },
+  {
+      "key": "person_in_motorized_wheelchair",
+      "values": "🧑‍🦼"
+  },
+  {
+      "key": "man_in_motorized_wheelchair",
+      "values": "👨‍🦼"
+  },
+  {
+      "key": "woman_in_motorized_wheelchair",
+      "values": "👩‍🦼"
+  },
+  {
+      "key": "person_in_manual_wheelchair",
+      "values": "🧑‍🦽"
+  },
+  {
+      "key": "man_in_manual_wheelchair",
+      "values": "👨‍🦽"
+  },
+  {
+      "key": "woman_in_manual_wheelchair",
+      "values": "👩‍🦽"
+  },
+  {
+      "key": "runner",
+      "values": "🏃"
+  },
+  {
+      "key": "man-running",
+      "values": "🏃‍♂️"
+  },
+  {
+      "key": "woman-running",
+      "values": "🏃‍♀️"
+  },
+  {
+      "key": "dancer",
+      "values": "💃"
+  },
+  {
+      "key": "man_dancing",
+      "values": "🕺"
+  },
+  {
+      "key": "man_in_business_suit_levitating",
+      "values": "🕴️"
+  },
+  {
+      "key": "dancers",
+      "values": "👯"
+  },
+  {
+      "key": "men-with-bunny-ears-partying",
+      "values": "👯‍♂️"
+  },
+  {
+      "key": "women-with-bunny-ears-partying",
+      "values": "👯‍♀️"
+  },
+  {
+      "key": "person_in_steamy_room",
+      "values": "🧖"
+  },
+  {
+      "key": "man_in_steamy_room",
+      "values": "🧖‍♂️"
+  },
+  {
+      "key": "woman_in_steamy_room",
+      "values": "🧖‍♀️"
+  },
+  {
+      "key": "person_climbing",
+      "values": "🧗"
+  },
+  {
+      "key": "man_climbing",
+      "values": "🧗‍♂️"
+  },
+  {
+      "key": "woman_climbing",
+      "values": "🧗‍♀️"
+  },
+  {
+      "key": "fencer",
+      "values": "🤺"
+  },
+  {
+      "key": "horse_racing",
+      "values": "🏇"
+  },
+  {
+      "key": "skier",
+      "values": "⛷️"
+  },
+  {
+      "key": "snowboarder",
+      "values": "🏂"
+  },
+  {
+      "key": "golfer",
+      "values": "🏌️"
+  },
+  {
+      "key": "man-golfing",
+      "values": "🏌️‍♂️"
+  },
+  {
+      "key": "woman-golfing",
+      "values": "🏌️‍♀️"
+  },
+  {
+      "key": "surfer",
+      "values": "🏄"
+  },
+  {
+      "key": "man-surfing",
+      "values": "🏄‍♂️"
+  },
+  {
+      "key": "woman-surfing",
+      "values": "🏄‍♀️"
+  },
+  {
+      "key": "rowboat",
+      "values": "🚣"
+  },
+  {
+      "key": "man-rowing-boat",
+      "values": "🚣‍♂️"
+  },
+  {
+      "key": "woman-rowing-boat",
+      "values": "🚣‍♀️"
+  },
+  {
+      "key": "swimmer",
+      "values": "🏊"
+  },
+  {
+      "key": "man-swimming",
+      "values": "🏊‍♂️"
+  },
+  {
+      "key": "woman-swimming",
+      "values": "🏊‍♀️"
+  },
+  {
+      "key": "person_with_ball",
+      "values": "⛹️"
+  },
+  {
+      "key": "man-bouncing-ball",
+      "values": "⛹️‍♂️"
+  },
+  {
+      "key": "woman-bouncing-ball",
+      "values": "⛹️‍♀️"
+  },
+  {
+      "key": "weight_lifter",
+      "values": "🏋️"
+  },
+  {
+      "key": "man-lifting-weights",
+      "values": "🏋️‍♂️"
+  },
+  {
+      "key": "woman-lifting-weights",
+      "values": "🏋️‍♀️"
+  },
+  {
+      "key": "bicyclist",
+      "values": "🚴"
+  },
+  {
+      "key": "man-biking",
+      "values": "🚴‍♂️"
+  },
+  {
+      "key": "woman-biking",
+      "values": "🚴‍♀️"
+  },
+  {
+      "key": "mountain_bicyclist",
+      "values": "🚵"
+  },
+  {
+      "key": "man-mountain-biking",
+      "values": "🚵‍♂️"
+  },
+  {
+      "key": "woman-mountain-biking",
+      "values": "🚵‍♀️"
+  },
+  {
+      "key": "person_doing_cartwheel",
+      "values": "🤸"
+  },
+  {
+      "key": "man-cartwheeling",
+      "values": "🤸‍♂️"
+  },
+  {
+      "key": "woman-cartwheeling",
+      "values": "🤸‍♀️"
+  },
+  {
+      "key": "wrestlers",
+      "values": "🤼"
+  },
+  {
+      "key": "man-wrestling",
+      "values": "🤼‍♂️"
+  },
+  {
+      "key": "woman-wrestling",
+      "values": "🤼‍♀️"
+  },
+  {
+      "key": "water_polo",
+      "values": "🤽"
+  },
+  {
+      "key": "man-playing-water-polo",
+      "values": "🤽‍♂️"
+  },
+  {
+      "key": "woman-playing-water-polo",
+      "values": "🤽‍♀️"
+  },
+  {
+      "key": "handball",
+      "values": "🤾"
+  },
+  {
+      "key": "man-playing-handball",
+      "values": "🤾‍♂️"
+  },
+  {
+      "key": "woman-playing-handball",
+      "values": "🤾‍♀️"
+  },
+  {
+      "key": "juggling",
+      "values": "🤹"
+  },
+  {
+      "key": "man-juggling",
+      "values": "🤹‍♂️"
+  },
+  {
+      "key": "woman-juggling",
+      "values": "🤹‍♀️"
+  },
+  {
+      "key": "person_in_lotus_position",
+      "values": "🧘"
+  },
+  {
+      "key": "man_in_lotus_position",
+      "values": "🧘‍♂️"
+  },
+  {
+      "key": "woman_in_lotus_position",
+      "values": "🧘‍♀️"
+  },
+  {
+      "key": "bath",
+      "values": "🛀"
+  },
+  {
+      "key": "sleeping_accommodation",
+      "values": "🛌"
+  },
+  {
+      "key": "people_holding_hands",
+      "values": "🧑‍🤝‍🧑"
+  },
+  {
+      "key": "two_women_holding_hands",
+      "values": "👭"
+  },
+  {
+      "key": "man_and_woman_holding_hands",
+      "values": "👫"
+  },
+  {
+      "key": "two_men_holding_hands",
+      "values": "👬"
+  },
+  {
+      "key": "couplekiss",
+      "values": "💏"
+  },
+  {
+      "key": "woman-kiss-man",
+      "values": "👩‍❤️‍💋‍👨"
+  },
+  {
+      "key": "man-kiss-man",
+      "values": "👨‍❤️‍💋‍👨"
+  },
+  {
+      "key": "woman-kiss-woman",
+      "values": "👩‍❤️‍💋‍👩"
+  },
+  {
+      "key": "couple_with_heart",
+      "values": "💑"
+  },
+  {
+      "key": "woman-heart-man",
+      "values": "👩‍❤️‍👨"
+  },
+  {
+      "key": "man-heart-man",
+      "values": "👨‍❤️‍👨"
+  },
+  {
+      "key": "woman-heart-woman",
+      "values": "👩‍❤️‍👩"
+  },
+  {
+      "key": "family",
+      "values": "👪"
+  },
+  {
+      "key": "man-woman-boy",
+      "values": "👨‍👩‍👦"
+  },
+  {
+      "key": "man-woman-girl",
+      "values": "👨‍👩‍👧"
+  },
+  {
+      "key": "man-woman-girl-boy",
+      "values": "👨‍👩‍👧‍👦"
+  },
+  {
+      "key": "man-woman-boy-boy",
+      "values": "👨‍👩‍👦‍👦"
+  },
+  {
+      "key": "man-woman-girl-girl",
+      "values": "👨‍👩‍👧‍👧"
+  },
+  {
+      "key": "man-man-boy",
+      "values": "👨‍👨‍👦"
+  },
+  {
+      "key": "man-man-girl",
+      "values": "👨‍👨‍👧"
+  },
+  {
+      "key": "man-man-girl-boy",
+      "values": "👨‍👨‍👧‍👦"
+  },
+  {
+      "key": "man-man-boy-boy",
+      "values": "👨‍👨‍👦‍👦"
+  },
+  {
+      "key": "man-man-girl-girl",
+      "values": "👨‍👨‍👧‍👧"
+  },
+  {
+      "key": "woman-woman-boy",
+      "values": "👩‍👩‍👦"
+  },
+  {
+      "key": "woman-woman-girl",
+      "values": "👩‍👩‍👧"
+  },
+  {
+      "key": "woman-woman-girl-boy",
+      "values": "👩‍👩‍👧‍👦"
+  },
+  {
+      "key": "woman-woman-boy-boy",
+      "values": "👩‍👩‍👦‍👦"
+  },
+  {
+      "key": "woman-woman-girl-girl",
+      "values": "👩‍👩‍👧‍👧"
+  },
+  {
+      "key": "man-boy",
+      "values": "👨‍👦"
+  },
+  {
+      "key": "man-boy-boy",
+      "values": "👨‍👦‍👦"
+  },
+  {
+      "key": "man-girl",
+      "values": "👨‍👧"
+  },
+  {
+      "key": "man-girl-boy",
+      "values": "👨‍👧‍👦"
+  },
+  {
+      "key": "man-girl-girl",
+      "values": "👨‍👧‍👧"
+  },
+  {
+      "key": "woman-boy",
+      "values": "👩‍👦"
+  },
+  {
+      "key": "woman-boy-boy",
+      "values": "👩‍👦‍👦"
+  },
+  {
+      "key": "woman-girl",
+      "values": "👩‍👧"
+  },
+  {
+      "key": "woman-girl-boy",
+      "values": "👩‍👧‍👦"
+  },
+  {
+      "key": "woman-girl-girl",
+      "values": "👩‍👧‍👧"
+  },
+  {
+      "key": "speaking_head_in_silhouette",
+      "values": "🗣️"
+  },
+  {
+      "key": "bust_in_silhouette",
+      "values": "👤"
+  },
+  {
+      "key": "busts_in_silhouette",
+      "values": "👥"
+  },
+  {
+      "key": "people_hugging",
+      "values": "🫂"
+  },
+  {
+      "key": "footprints",
+      "values": "👣"
+  },
+  {
+      "key": "monkey_face",
+      "values": "🐵"
+  },
+  {
+      "key": "monkey",
+      "values": "🐒"
+  },
+  {
+      "key": "gorilla",
+      "values": "🦍"
+  },
+  {
+      "key": "orangutan",
+      "values": "🦧"
+  },
+  {
+      "key": "dog",
+      "values": "🐶"
+  },
+  {
+      "key": "dog2",
+      "values": "🐕"
+  },
+  {
+      "key": "guide_dog",
+      "values": "🦮"
+  },
+  {
+      "key": "service_dog",
+      "values": "🐕‍🦺"
+  },
+  {
+      "key": "poodle",
+      "values": "🐩"
+  },
+  {
+      "key": "wolf",
+      "values": "🐺"
+  },
+  {
+      "key": "fox_face",
+      "values": "🦊"
+  },
+  {
+      "key": "raccoon",
+      "values": "🦝"
+  },
+  {
+      "key": "cat",
+      "values": "🐱"
+  },
+  {
+      "key": "cat2",
+      "values": "🐈"
+  },
+  {
+      "key": "black_cat",
+      "values": "🐈‍⬛"
+  },
+  {
+      "key": "lion_face",
+      "values": "🦁"
+  },
+  {
+      "key": "tiger",
+      "values": "🐯"
+  },
+  {
+      "key": "tiger2",
+      "values": "🐅"
+  },
+  {
+      "key": "leopard",
+      "values": "🐆"
+  },
+  {
+      "key": "horse",
+      "values": "🐴"
+  },
+  {
+      "key": "racehorse",
+      "values": "🐎"
+  },
+  {
+      "key": "unicorn_face",
+      "values": "🦄"
+  },
+  {
+      "key": "zebra_face",
+      "values": "🦓"
+  },
+  {
+      "key": "deer",
+      "values": "🦌"
+  },
+  {
+      "key": "bison",
+      "values": "🦬"
+  },
+  {
+      "key": "cow",
+      "values": "🐮"
+  },
+  {
+      "key": "ox",
+      "values": "🐂"
+  },
+  {
+      "key": "water_buffalo",
+      "values": "🐃"
+  },
+  {
+      "key": "cow2",
+      "values": "🐄"
+  },
+  {
+      "key": "pig",
+      "values": "🐷"
+  },
+  {
+      "key": "pig2",
+      "values": "🐖"
+  },
+  {
+      "key": "boar",
+      "values": "🐗"
+  },
+  {
+      "key": "pig_nose",
+      "values": "🐽"
+  },
+  {
+      "key": "ram",
+      "values": "🐏"
+  },
+  {
+      "key": "sheep",
+      "values": "🐑"
+  },
+  {
+      "key": "goat",
+      "values": "🐐"
+  },
+  {
+      "key": "dromedary_camel",
+      "values": "🐪"
+  },
+  {
+      "key": "camel",
+      "values": "🐫"
+  },
+  {
+      "key": "llama",
+      "values": "🦙"
+  },
+  {
+      "key": "giraffe_face",
+      "values": "🦒"
+  },
+  {
+      "key": "elephant",
+      "values": "🐘"
+  },
+  {
+      "key": "mammoth",
+      "values": "🦣"
+  },
+  {
+      "key": "rhinoceros",
+      "values": "🦏"
+  },
+  {
+      "key": "hippopotamus",
+      "values": "🦛"
+  },
+  {
+      "key": "mouse",
+      "values": "🐭"
+  },
+  {
+      "key": "mouse2",
+      "values": "🐁"
+  },
+  {
+      "key": "rat",
+      "values": "🐀"
+  },
+  {
+      "key": "hamster",
+      "values": "🐹"
+  },
+  {
+      "key": "rabbit",
+      "values": "🐰"
+  },
+  {
+      "key": "rabbit2",
+      "values": "🐇"
+  },
+  {
+      "key": "chipmunk",
+      "values": "🐿️"
+  },
+  {
+      "key": "beaver",
+      "values": "🦫"
+  },
+  {
+      "key": "hedgehog",
+      "values": "🦔"
+  },
+  {
+      "key": "bat",
+      "values": "🦇"
+  },
+  {
+      "key": "bear",
+      "values": "🐻"
+  },
+  {
+      "key": "polar_bear",
+      "values": "🐻‍❄️"
+  },
+  {
+      "key": "koala",
+      "values": "🐨"
+  },
+  {
+      "key": "panda_face",
+      "values": "🐼"
+  },
+  {
+      "key": "sloth",
+      "values": "🦥"
+  },
+  {
+      "key": "otter",
+      "values": "🦦"
+  },
+  {
+      "key": "skunk",
+      "values": "🦨"
+  },
+  {
+      "key": "kangaroo",
+      "values": "🦘"
+  },
+  {
+      "key": "badger",
+      "values": "🦡"
+  },
+  {
+      "key": "feet",
+      "values": "🐾"
+  },
+  {
+      "key": "turkey",
+      "values": "🦃"
+  },
+  {
+      "key": "chicken",
+      "values": "🐔"
+  },
+  {
+      "key": "rooster",
+      "values": "🐓"
+  },
+  {
+      "key": "hatching_chick",
+      "values": "🐣"
+  },
+  {
+      "key": "baby_chick",
+      "values": "🐤"
+  },
+  {
+      "key": "hatched_chick",
+      "values": "🐥"
+  },
+  {
+      "key": "bird",
+      "values": "🐦"
+  },
+  {
+      "key": "penguin",
+      "values": "🐧"
+  },
+  {
+      "key": "dove_of_peace",
+      "values": "🕊️"
+  },
+  {
+      "key": "eagle",
+      "values": "🦅"
+  },
+  {
+      "key": "duck",
+      "values": "🦆"
+  },
+  {
+      "key": "swan",
+      "values": "🦢"
+  },
+  {
+      "key": "owl",
+      "values": "🦉"
+  },
+  {
+      "key": "dodo",
+      "values": "🦤"
+  },
+  {
+      "key": "feather",
+      "values": "🪶"
+  },
+  {
+      "key": "flamingo",
+      "values": "🦩"
+  },
+  {
+      "key": "peacock",
+      "values": "🦚"
+  },
+  {
+      "key": "parrot",
+      "values": "🦜"
+  },
+  {
+      "key": "frog",
+      "values": "🐸"
+  },
+  {
+      "key": "crocodile",
+      "values": "🐊"
+  },
+  {
+      "key": "turtle",
+      "values": "🐢"
+  },
+  {
+      "key": "lizard",
+      "values": "🦎"
+  },
+  {
+      "key": "snake",
+      "values": "🐍"
+  },
+  {
+      "key": "dragon_face",
+      "values": "🐲"
+  },
+  {
+      "key": "dragon",
+      "values": "🐉"
+  },
+  {
+      "key": "sauropod",
+      "values": "🦕"
+  },
+  {
+      "key": "t-rex",
+      "values": "🦖"
+  },
+  {
+      "key": "whale",
+      "values": "🐳"
+  },
+  {
+      "key": "whale2",
+      "values": "🐋"
+  },
+  {
+      "key": "dolphin",
+      "values": "🐬"
+  },
+  {
+      "key": "seal",
+      "values": "🦭"
+  },
+  {
+      "key": "fish",
+      "values": "🐟"
+  },
+  {
+      "key": "tropical_fish",
+      "values": "🐠"
+  },
+  {
+      "key": "blowfish",
+      "values": "🐡"
+  },
+  {
+      "key": "shark",
+      "values": "🦈"
+  },
+  {
+      "key": "octopus",
+      "values": "🐙"
+  },
+  {
+      "key": "shell",
+      "values": "🐚"
+  },
+  {
+      "key": "coral",
+      "values": "🪸"
+  },
+  {
+      "key": "snail",
+      "values": "🐌"
+  },
+  {
+      "key": "butterfly",
+      "values": "🦋"
+  },
+  {
+      "key": "bug",
+      "values": "🐛"
+  },
+  {
+      "key": "ant",
+      "values": "🐜"
+  },
+  {
+      "key": "bee",
+      "values": "🐝"
+  },
+  {
+      "key": "beetle",
+      "values": "🪲"
+  },
+  {
+      "key": "ladybug",
+      "values": "🐞"
+  },
+  {
+      "key": "cricket",
+      "values": "🦗"
+  },
+  {
+      "key": "cockroach",
+      "values": "🪳"
+  },
+  {
+      "key": "spider",
+      "values": "🕷️"
+  },
+  {
+      "key": "spider_web",
+      "values": "🕸️"
+  },
+  {
+      "key": "scorpion",
+      "values": "🦂"
+  },
+  {
+      "key": "mosquito",
+      "values": "🦟"
+  },
+  {
+      "key": "fly",
+      "values": "🪰"
+  },
+  {
+      "key": "worm",
+      "values": "🪱"
+  },
+  {
+      "key": "microbe",
+      "values": "🦠"
+  },
+  {
+      "key": "bouquet",
+      "values": "💐"
+  },
+  {
+      "key": "cherry_blossom",
+      "values": "🌸"
+  },
+  {
+      "key": "white_flower",
+      "values": "💮"
+  },
+  {
+      "key": "lotus",
+      "values": "🪷"
+  },
+  {
+      "key": "rosette",
+      "values": "🏵️"
+  },
+  {
+      "key": "rose",
+      "values": "🌹"
+  },
+  {
+      "key": "wilted_flower",
+      "values": "🥀"
+  },
+  {
+      "key": "hibiscus",
+      "values": "🌺"
+  },
+  {
+      "key": "sunflower",
+      "values": "🌻"
+  },
+  {
+      "key": "blossom",
+      "values": "🌼"
+  },
+  {
+      "key": "tulip",
+      "values": "🌷"
+  },
+  {
+      "key": "seedling",
+      "values": "🌱"
+  },
+  {
+      "key": "potted_plant",
+      "values": "🪴"
+  },
+  {
+      "key": "evergreen_tree",
+      "values": "🌲"
+  },
+  {
+      "key": "deciduous_tree",
+      "values": "🌳"
+  },
+  {
+      "key": "palm_tree",
+      "values": "🌴"
+  },
+  {
+      "key": "cactus",
+      "values": "🌵"
+  },
+  {
+      "key": "ear_of_rice",
+      "values": "🌾"
+  },
+  {
+      "key": "herb",
+      "values": "🌿"
+  },
+  {
+      "key": "shamrock",
+      "values": "☘️"
+  },
+  {
+      "key": "four_leaf_clover",
+      "values": "🍀"
+  },
+  {
+      "key": "maple_leaf",
+      "values": "🍁"
+  },
+  {
+      "key": "fallen_leaf",
+      "values": "🍂"
+  },
+  {
+      "key": "leaves",
+      "values": "🍃"
+  },
+  {
+      "key": "empty_nest",
+      "values": "🪹"
+  },
+  {
+      "key": "nest_with_eggs",
+      "values": "🪺"
+  },
+  {
+      "key": "grapes",
+      "values": "🍇"
+  },
+  {
+      "key": "melon",
+      "values": "🍈"
+  },
+  {
+      "key": "watermelon",
+      "values": "🍉"
+  },
+  {
+      "key": "tangerine",
+      "values": "🍊"
+  },
+  {
+      "key": "lemon",
+      "values": "🍋"
+  },
+  {
+      "key": "banana",
+      "values": "🍌"
+  },
+  {
+      "key": "pineapple",
+      "values": "🍍"
+  },
+  {
+      "key": "mango",
+      "values": "🥭"
+  },
+  {
+      "key": "apple",
+      "values": "🍎"
+  },
+  {
+      "key": "green_apple",
+      "values": "🍏"
+  },
+  {
+      "key": "pear",
+      "values": "🍐"
+  },
+  {
+      "key": "peach",
+      "values": "🍑"
+  },
+  {
+      "key": "cherries",
+      "values": "🍒"
+  },
+  {
+      "key": "strawberry",
+      "values": "🍓"
+  },
+  {
+      "key": "blueberries",
+      "values": "🫐"
+  },
+  {
+      "key": "kiwifruit",
+      "values": "🥝"
+  },
+  {
+      "key": "tomato",
+      "values": "🍅"
+  },
+  {
+      "key": "olive",
+      "values": "🫒"
+  },
+  {
+      "key": "coconut",
+      "values": "🥥"
+  },
+  {
+      "key": "avocado",
+      "values": "🥑"
+  },
+  {
+      "key": "eggplant",
+      "values": "🍆"
+  },
+  {
+      "key": "potato",
+      "values": "🥔"
+  },
+  {
+      "key": "carrot",
+      "values": "🥕"
+  },
+  {
+      "key": "corn",
+      "values": "🌽"
+  },
+  {
+      "key": "hot_pepper",
+      "values": "🌶️"
+  },
+  {
+      "key": "bell_pepper",
+      "values": "🫑"
+  },
+  {
+      "key": "cucumber",
+      "values": "🥒"
+  },
+  {
+      "key": "leafy_green",
+      "values": "🥬"
+  },
+  {
+      "key": "broccoli",
+      "values": "🥦"
+  },
+  {
+      "key": "garlic",
+      "values": "🧄"
+  },
+  {
+      "key": "onion",
+      "values": "🧅"
+  },
+  {
+      "key": "mushroom",
+      "values": "🍄"
+  },
+  {
+      "key": "peanuts",
+      "values": "🥜"
+  },
+  {
+      "key": "beans",
+      "values": "🫘"
+  },
+  {
+      "key": "chestnut",
+      "values": "🌰"
+  },
+  {
+      "key": "bread",
+      "values": "🍞"
+  },
+  {
+      "key": "croissant",
+      "values": "🥐"
+  },
+  {
+      "key": "baguette_bread",
+      "values": "🥖"
+  },
+  {
+      "key": "flatbread",
+      "values": "🫓"
+  },
+  {
+      "key": "pretzel",
+      "values": "🥨"
+  },
+  {
+      "key": "bagel",
+      "values": "🥯"
+  },
+  {
+      "key": "pancakes",
+      "values": "🥞"
+  },
+  {
+      "key": "waffle",
+      "values": "🧇"
+  },
+  {
+      "key": "cheese_wedge",
+      "values": "🧀"
+  },
+  {
+      "key": "meat_on_bone",
+      "values": "🍖"
+  },
+  {
+      "key": "poultry_leg",
+      "values": "🍗"
+  },
+  {
+      "key": "cut_of_meat",
+      "values": "🥩"
+  },
+  {
+      "key": "bacon",
+      "values": "🥓"
+  },
+  {
+      "key": "hamburger",
+      "values": "🍔"
+  },
+  {
+      "key": "fries",
+      "values": "🍟"
+  },
+  {
+      "key": "pizza",
+      "values": "🍕"
+  },
+  {
+      "key": "hotdog",
+      "values": "🌭"
+  },
+  {
+      "key": "sandwich",
+      "values": "🥪"
+  },
+  {
+      "key": "taco",
+      "values": "🌮"
+  },
+  {
+      "key": "burrito",
+      "values": "🌯"
+  },
+  {
+      "key": "tamale",
+      "values": "🫔"
+  },
+  {
+      "key": "stuffed_flatbread",
+      "values": "🥙"
+  },
+  {
+      "key": "falafel",
+      "values": "🧆"
+  },
+  {
+      "key": "egg",
+      "values": "🥚"
+  },
+  {
+      "key": "fried_egg",
+      "values": "🍳"
+  },
+  {
+      "key": "shallow_pan_of_food",
+      "values": "🥘"
+  },
+  {
+      "key": "stew",
+      "values": "🍲"
+  },
+  {
+      "key": "fondue",
+      "values": "🫕"
+  },
+  {
+      "key": "bowl_with_spoon",
+      "values": "🥣"
+  },
+  {
+      "key": "green_salad",
+      "values": "🥗"
+  },
+  {
+      "key": "popcorn",
+      "values": "🍿"
+  },
+  {
+      "key": "butter",
+      "values": "🧈"
+  },
+  {
+      "key": "salt",
+      "values": "🧂"
+  },
+  {
+      "key": "canned_food",
+      "values": "🥫"
+  },
+  {
+      "key": "bento",
+      "values": "🍱"
+  },
+  {
+      "key": "rice_cracker",
+      "values": "🍘"
+  },
+  {
+      "key": "rice_ball",
+      "values": "🍙"
+  },
+  {
+      "key": "rice",
+      "values": "🍚"
+  },
+  {
+      "key": "curry",
+      "values": "🍛"
+  },
+  {
+      "key": "ramen",
+      "values": "🍜"
+  },
+  {
+      "key": "spaghetti",
+      "values": "🍝"
+  },
+  {
+      "key": "sweet_potato",
+      "values": "🍠"
+  },
+  {
+      "key": "oden",
+      "values": "🍢"
+  },
+  {
+      "key": "sushi",
+      "values": "🍣"
+  },
+  {
+      "key": "fried_shrimp",
+      "values": "🍤"
+  },
+  {
+      "key": "fish_cake",
+      "values": "🍥"
+  },
+  {
+      "key": "moon_cake",
+      "values": "🥮"
+  },
+  {
+      "key": "dango",
+      "values": "🍡"
+  },
+  {
+      "key": "dumpling",
+      "values": "🥟"
+  },
+  {
+      "key": "fortune_cookie",
+      "values": "🥠"
+  },
+  {
+      "key": "takeout_box",
+      "values": "🥡"
+  },
+  {
+      "key": "crab",
+      "values": "🦀"
+  },
+  {
+      "key": "lobster",
+      "values": "🦞"
+  },
+  {
+      "key": "shrimp",
+      "values": "🦐"
+  },
+  {
+      "key": "squid",
+      "values": "🦑"
+  },
+  {
+      "key": "oyster",
+      "values": "🦪"
+  },
+  {
+      "key": "icecream",
+      "values": "🍦"
+  },
+  {
+      "key": "shaved_ice",
+      "values": "🍧"
+  },
+  {
+      "key": "ice_cream",
+      "values": "🍨"
+  },
+  {
+      "key": "doughnut",
+      "values": "🍩"
+  },
+  {
+      "key": "cookie",
+      "values": "🍪"
+  },
+  {
+      "key": "birthday",
+      "values": "🎂"
+  },
+  {
+      "key": "cake",
+      "values": "🍰"
+  },
+  {
+      "key": "cupcake",
+      "values": "🧁"
+  },
+  {
+      "key": "pie",
+      "values": "🥧"
+  },
+  {
+      "key": "chocolate_bar",
+      "values": "🍫"
+  },
+  {
+      "key": "candy",
+      "values": "🍬"
+  },
+  {
+      "key": "lollipop",
+      "values": "🍭"
+  },
+  {
+      "key": "custard",
+      "values": "🍮"
+  },
+  {
+      "key": "honey_pot",
+      "values": "🍯"
+  },
+  {
+      "key": "baby_bottle",
+      "values": "🍼"
+  },
+  {
+      "key": "glass_of_milk",
+      "values": "🥛"
+  },
+  {
+      "key": "coffee",
+      "values": "☕"
+  },
+  {
+      "key": "teapot",
+      "values": "🫖"
+  },
+  {
+      "key": "tea",
+      "values": "🍵"
+  },
+  {
+      "key": "sake",
+      "values": "🍶"
+  },
+  {
+      "key": "champagne",
+      "values": "🍾"
+  },
+  {
+      "key": "wine_glass",
+      "values": "🍷"
+  },
+  {
+      "key": "cocktail",
+      "values": "🍸"
+  },
+  {
+      "key": "tropical_drink",
+      "values": "🍹"
+  },
+  {
+      "key": "beer",
+      "values": "🍺"
+  },
+  {
+      "key": "beers",
+      "values": "🍻"
+  },
+  {
+      "key": "clinking_glasses",
+      "values": "🥂"
+  },
+  {
+      "key": "tumbler_glass",
+      "values": "🥃"
+  },
+  {
+      "key": "pouring_liquid",
+      "values": "🫗"
+  },
+  {
+      "key": "cup_with_straw",
+      "values": "🥤"
+  },
+  {
+      "key": "bubble_tea",
+      "values": "🧋"
+  },
+  {
+      "key": "beverage_box",
+      "values": "🧃"
+  },
+  {
+      "key": "mate_drink",
+      "values": "🧉"
+  },
+  {
+      "key": "ice_cube",
+      "values": "🧊"
+  },
+  {
+      "key": "chopsticks",
+      "values": "🥢"
+  },
+  {
+      "key": "knife_fork_plate",
+      "values": "🍽️"
+  },
+  {
+      "key": "fork_and_knife",
+      "values": "🍴"
+  },
+  {
+      "key": "spoon",
+      "values": "🥄"
+  },
+  {
+      "key": "hocho",
+      "values": "🔪"
+  },
+  {
+      "key": "jar",
+      "values": "🫙"
+  },
+  {
+      "key": "amphora",
+      "values": "🏺"
+  },
+  {
+      "key": "earth_africa",
+      "values": "🌍"
+  },
+  {
+      "key": "earth_americas",
+      "values": "🌎"
+  },
+  {
+      "key": "earth_asia",
+      "values": "🌏"
+  },
+  {
+      "key": "globe_with_meridians",
+      "values": "🌐"
+  },
+  {
+      "key": "world_map",
+      "values": "🗺️"
+  },
+  {
+      "key": "japan",
+      "values": "🗾"
+  },
+  {
+      "key": "compass",
+      "values": "🧭"
+  },
+  {
+      "key": "snow_capped_mountain",
+      "values": "🏔️"
+  },
+  {
+      "key": "mountain",
+      "values": "⛰️"
+  },
+  {
+      "key": "volcano",
+      "values": "🌋"
+  },
+  {
+      "key": "mount_fuji",
+      "values": "🗻"
+  },
+  {
+      "key": "camping",
+      "values": "🏕️"
+  },
+  {
+      "key": "beach_with_umbrella",
+      "values": "🏖️"
+  },
+  {
+      "key": "desert",
+      "values": "🏜️"
+  },
+  {
+      "key": "desert_island",
+      "values": "🏝️"
+  },
+  {
+      "key": "national_park",
+      "values": "🏞️"
+  },
+  {
+      "key": "stadium",
+      "values": "🏟️"
+  },
+  {
+      "key": "classical_building",
+      "values": "🏛️"
+  },
+  {
+      "key": "building_construction",
+      "values": "🏗️"
+  },
+  {
+      "key": "bricks",
+      "values": "🧱"
+  },
+  {
+      "key": "rock",
+      "values": "🪨"
+  },
+  {
+      "key": "wood",
+      "values": "🪵"
+  },
+  {
+      "key": "hut",
+      "values": "🛖"
+  },
+  {
+      "key": "house_buildings",
+      "values": "🏘️"
+  },
+  {
+      "key": "derelict_house_building",
+      "values": "🏚️"
+  },
+  {
+      "key": "house",
+      "values": "🏠"
+  },
+  {
+      "key": "house_with_garden",
+      "values": "🏡"
+  },
+  {
+      "key": "office",
+      "values": "🏢"
+  },
+  {
+      "key": "post_office",
+      "values": "🏣"
+  },
+  {
+      "key": "european_post_office",
+      "values": "🏤"
+  },
+  {
+      "key": "hospital",
+      "values": "🏥"
+  },
+  {
+      "key": "bank",
+      "values": "🏦"
+  },
+  {
+      "key": "hotel",
+      "values": "🏨"
+  },
+  {
+      "key": "love_hotel",
+      "values": "🏩"
+  },
+  {
+      "key": "convenience_store",
+      "values": "🏪"
+  },
+  {
+      "key": "school",
+      "values": "🏫"
+  },
+  {
+      "key": "department_store",
+      "values": "🏬"
+  },
+  {
+      "key": "factory",
+      "values": "🏭"
+  },
+  {
+      "key": "japanese_castle",
+      "values": "🏯"
+  },
+  {
+      "key": "european_castle",
+      "values": "🏰"
+  },
+  {
+      "key": "wedding",
+      "values": "💒"
+  },
+  {
+      "key": "tokyo_tower",
+      "values": "🗼"
+  },
+  {
+      "key": "statue_of_liberty",
+      "values": "🗽"
+  },
+  {
+      "key": "church",
+      "values": "⛪"
+  },
+  {
+      "key": "mosque",
+      "values": "🕌"
+  },
+  {
+      "key": "hindu_temple",
+      "values": "🛕"
+  },
+  {
+      "key": "synagogue",
+      "values": "🕍"
+  },
+  {
+      "key": "shinto_shrine",
+      "values": "⛩️"
+  },
+  {
+      "key": "kaaba",
+      "values": "🕋"
+  },
+  {
+      "key": "fountain",
+      "values": "⛲"
+  },
+  {
+      "key": "tent",
+      "values": "⛺"
+  },
+  {
+      "key": "foggy",
+      "values": "🌁"
+  },
+  {
+      "key": "night_with_stars",
+      "values": "🌃"
+  },
+  {
+      "key": "cityscape",
+      "values": "🏙️"
+  },
+  {
+      "key": "sunrise_over_mountains",
+      "values": "🌄"
+  },
+  {
+      "key": "sunrise",
+      "values": "🌅"
+  },
+  {
+      "key": "city_sunset",
+      "values": "🌆"
+  },
+  {
+      "key": "city_sunrise",
+      "values": "🌇"
+  },
+  {
+      "key": "bridge_at_night",
+      "values": "🌉"
+  },
+  {
+      "key": "hotsprings",
+      "values": "♨️"
+  },
+  {
+      "key": "carousel_horse",
+      "values": "🎠"
+  },
+  {
+      "key": "playground_slide",
+      "values": "🛝"
+  },
+  {
+      "key": "ferris_wheel",
+      "values": "🎡"
+  },
+  {
+      "key": "roller_coaster",
+      "values": "🎢"
+  },
+  {
+      "key": "barber",
+      "values": "💈"
+  },
+  {
+      "key": "circus_tent",
+      "values": "🎪"
+  },
+  {
+      "key": "steam_locomotive",
+      "values": "🚂"
+  },
+  {
+      "key": "railway_car",
+      "values": "🚃"
+  },
+  {
+      "key": "bullettrain_side",
+      "values": "🚄"
+  },
+  {
+      "key": "bullettrain_front",
+      "values": "🚅"
+  },
+  {
+      "key": "train2",
+      "values": "🚆"
+  },
+  {
+      "key": "metro",
+      "values": "🚇"
+  },
+  {
+      "key": "light_rail",
+      "values": "🚈"
+  },
+  {
+      "key": "station",
+      "values": "🚉"
+  },
+  {
+      "key": "tram",
+      "values": "🚊"
+  },
+  {
+      "key": "monorail",
+      "values": "🚝"
+  },
+  {
+      "key": "mountain_railway",
+      "values": "🚞"
+  },
+  {
+      "key": "train",
+      "values": "🚋"
+  },
+  {
+      "key": "bus",
+      "values": "🚌"
+  },
+  {
+      "key": "oncoming_bus",
+      "values": "🚍"
+  },
+  {
+      "key": "trolleybus",
+      "values": "🚎"
+  },
+  {
+      "key": "minibus",
+      "values": "🚐"
+  },
+  {
+      "key": "ambulance",
+      "values": "🚑"
+  },
+  {
+      "key": "fire_engine",
+      "values": "🚒"
+  },
+  {
+      "key": "police_car",
+      "values": "🚓"
+  },
+  {
+      "key": "oncoming_police_car",
+      "values": "🚔"
+  },
+  {
+      "key": "taxi",
+      "values": "🚕"
+  },
+  {
+      "key": "oncoming_taxi",
+      "values": "🚖"
+  },
+  {
+      "key": "car",
+      "values": "🚗"
+  },
+  {
+      "key": "oncoming_automobile",
+      "values": "🚘"
+  },
+  {
+      "key": "blue_car",
+      "values": "🚙"
+  },
+  {
+      "key": "pickup_truck",
+      "values": "🛻"
+  },
+  {
+      "key": "truck",
+      "values": "🚚"
+  },
+  {
+      "key": "articulated_lorry",
+      "values": "🚛"
+  },
+  {
+      "key": "tractor",
+      "values": "🚜"
+  },
+  {
+      "key": "racing_car",
+      "values": "🏎️"
+  },
+  {
+      "key": "racing_motorcycle",
+      "values": "🏍️"
+  },
+  {
+      "key": "motor_scooter",
+      "values": "🛵"
+  },
+  {
+      "key": "manual_wheelchair",
+      "values": "🦽"
+  },
+  {
+      "key": "motorized_wheelchair",
+      "values": "🦼"
+  },
+  {
+      "key": "auto_rickshaw",
+      "values": "🛺"
+  },
+  {
+      "key": "bike",
+      "values": "🚲"
+  },
+  {
+      "key": "scooter",
+      "values": "🛴"
+  },
+  {
+      "key": "skateboard",
+      "values": "🛹"
+  },
+  {
+      "key": "roller_skate",
+      "values": "🛼"
+  },
+  {
+      "key": "busstop",
+      "values": "🚏"
+  },
+  {
+      "key": "motorway",
+      "values": "🛣️"
+  },
+  {
+      "key": "railway_track",
+      "values": "🛤️"
+  },
+  {
+      "key": "oil_drum",
+      "values": "🛢️"
+  },
+  {
+      "key": "fuelpump",
+      "values": "⛽"
+  },
+  {
+      "key": "wheel",
+      "values": "🛞"
+  },
+  {
+      "key": "rotating_light",
+      "values": "🚨"
+  },
+  {
+      "key": "traffic_light",
+      "values": "🚥"
+  },
+  {
+      "key": "vertical_traffic_light",
+      "values": "🚦"
+  },
+  {
+      "key": "octagonal_sign",
+      "values": "🛑"
+  },
+  {
+      "key": "construction",
+      "values": "🚧"
+  },
+  {
+      "key": "anchor",
+      "values": "⚓"
+  },
+  {
+      "key": "ring_buoy",
+      "values": "🛟"
+  },
+  {
+      "key": "boat",
+      "values": "⛵"
+  },
+  {
+      "key": "canoe",
+      "values": "🛶"
+  },
+  {
+      "key": "speedboat",
+      "values": "🚤"
+  },
+  {
+      "key": "passenger_ship",
+      "values": "🛳️"
+  },
+  {
+      "key": "ferry",
+      "values": "⛴️"
+  },
+  {
+      "key": "motor_boat",
+      "values": "🛥️"
+  },
+  {
+      "key": "ship",
+      "values": "🚢"
+  },
+  {
+      "key": "airplane",
+      "values": "✈️"
+  },
+  {
+      "key": "small_airplane",
+      "values": "🛩️"
+  },
+  {
+      "key": "airplane_departure",
+      "values": "🛫"
+  },
+  {
+      "key": "airplane_arriving",
+      "values": "🛬"
+  },
+  {
+      "key": "parachute",
+      "values": "🪂"
+  },
+  {
+      "key": "seat",
+      "values": "💺"
+  },
+  {
+      "key": "helicopter",
+      "values": "🚁"
+  },
+  {
+      "key": "suspension_railway",
+      "values": "🚟"
+  },
+  {
+      "key": "mountain_cableway",
+      "values": "🚠"
+  },
+  {
+      "key": "aerial_tramway",
+      "values": "🚡"
+  },
+  {
+      "key": "satellite",
+      "values": "🛰️"
+  },
+  {
+      "key": "rocket",
+      "values": "🚀"
+  },
+  {
+      "key": "flying_saucer",
+      "values": "🛸"
+  },
+  {
+      "key": "bellhop_bell",
+      "values": "🛎️"
+  },
+  {
+      "key": "luggage",
+      "values": "🧳"
+  },
+  {
+      "key": "hourglass",
+      "values": "⌛"
+  },
+  {
+      "key": "hourglass_flowing_sand",
+      "values": "⏳"
+  },
+  {
+      "key": "watch",
+      "values": "⌚"
+  },
+  {
+      "key": "alarm_clock",
+      "values": "⏰"
+  },
+  {
+      "key": "stopwatch",
+      "values": "⏱️"
+  },
+  {
+      "key": "timer_clock",
+      "values": "⏲️"
+  },
+  {
+      "key": "mantelpiece_clock",
+      "values": "🕰️"
+  },
+  {
+      "key": "clock12",
+      "values": "🕛"
+  },
+  {
+      "key": "clock1230",
+      "values": "🕧"
+  },
+  {
+      "key": "clock1",
+      "values": "🕐"
+  },
+  {
+      "key": "clock130",
+      "values": "🕜"
+  },
+  {
+      "key": "clock2",
+      "values": "🕑"
+  },
+  {
+      "key": "clock230",
+      "values": "🕝"
+  },
+  {
+      "key": "clock3",
+      "values": "🕒"
+  },
+  {
+      "key": "clock330",
+      "values": "🕞"
+  },
+  {
+      "key": "clock4",
+      "values": "🕓"
+  },
+  {
+      "key": "clock430",
+      "values": "🕟"
+  },
+  {
+      "key": "clock5",
+      "values": "🕔"
+  },
+  {
+      "key": "clock530",
+      "values": "🕠"
+  },
+  {
+      "key": "clock6",
+      "values": "🕕"
+  },
+  {
+      "key": "clock630",
+      "values": "🕡"
+  },
+  {
+      "key": "clock7",
+      "values": "🕖"
+  },
+  {
+      "key": "clock730",
+      "values": "🕢"
+  },
+  {
+      "key": "clock8",
+      "values": "🕗"
+  },
+  {
+      "key": "clock830",
+      "values": "🕣"
+  },
+  {
+      "key": "clock9",
+      "values": "🕘"
+  },
+  {
+      "key": "clock930",
+      "values": "🕤"
+  },
+  {
+      "key": "clock10",
+      "values": "🕙"
+  },
+  {
+      "key": "clock1030",
+      "values": "🕥"
+  },
+  {
+      "key": "clock11",
+      "values": "🕚"
+  },
+  {
+      "key": "clock1130",
+      "values": "🕦"
+  },
+  {
+      "key": "new_moon",
+      "values": "🌑"
+  },
+  {
+      "key": "waxing_crescent_moon",
+      "values": "🌒"
+  },
+  {
+      "key": "first_quarter_moon",
+      "values": "🌓"
+  },
+  {
+      "key": "moon",
+      "values": "🌔"
+  },
+  {
+      "key": "full_moon",
+      "values": "🌕"
+  },
+  {
+      "key": "waning_gibbous_moon",
+      "values": "🌖"
+  },
+  {
+      "key": "last_quarter_moon",
+      "values": "🌗"
+  },
+  {
+      "key": "waning_crescent_moon",
+      "values": "🌘"
+  },
+  {
+      "key": "crescent_moon",
+      "values": "🌙"
+  },
+  {
+      "key": "new_moon_with_face",
+      "values": "🌚"
+  },
+  {
+      "key": "first_quarter_moon_with_face",
+      "values": "🌛"
+  },
+  {
+      "key": "last_quarter_moon_with_face",
+      "values": "🌜"
+  },
+  {
+      "key": "thermometer",
+      "values": "🌡️"
+  },
+  {
+      "key": "sunny",
+      "values": "☀️"
+  },
+  {
+      "key": "full_moon_with_face",
+      "values": "🌝"
+  },
+  {
+      "key": "sun_with_face",
+      "values": "🌞"
+  },
+  {
+      "key": "ringed_planet",
+      "values": "🪐"
+  },
+  {
+      "key": "star",
+      "values": "⭐"
+  },
+  {
+      "key": "star2",
+      "values": "🌟"
+  },
+  {
+      "key": "stars",
+      "values": "🌠"
+  },
+  {
+      "key": "milky_way",
+      "values": "🌌"
+  },
+  {
+      "key": "cloud",
+      "values": "☁️"
+  },
+  {
+      "key": "partly_sunny",
+      "values": "⛅"
+  },
+  {
+      "key": "thunder_cloud_and_rain",
+      "values": "⛈️"
+  },
+  {
+      "key": "mostly_sunny",
+      "values": "🌤️"
+  },
+  {
+      "key": "barely_sunny",
+      "values": "🌥️"
+  },
+  {
+      "key": "partly_sunny_rain",
+      "values": "🌦️"
+  },
+  {
+      "key": "rain_cloud",
+      "values": "🌧️"
+  },
+  {
+      "key": "snow_cloud",
+      "values": "🌨️"
+  },
+  {
+      "key": "lightning",
+      "values": "🌩️"
+  },
+  {
+      "key": "tornado",
+      "values": "🌪️"
+  },
+  {
+      "key": "fog",
+      "values": "🌫️"
+  },
+  {
+      "key": "wind_blowing_face",
+      "values": "🌬️"
+  },
+  {
+      "key": "cyclone",
+      "values": "🌀"
+  },
+  {
+      "key": "rainbow",
+      "values": "🌈"
+  },
+  {
+      "key": "closed_umbrella",
+      "values": "🌂"
+  },
+  {
+      "key": "umbrella",
+      "values": "☂️"
+  },
+  {
+      "key": "umbrella_with_rain_drops",
+      "values": "☔"
+  },
+  {
+      "key": "umbrella_on_ground",
+      "values": "⛱️"
+  },
+  {
+      "key": "zap",
+      "values": "⚡"
+  },
+  {
+      "key": "snowflake",
+      "values": "❄️"
+  },
+  {
+      "key": "snowman",
+      "values": "☃️"
+  },
+  {
+      "key": "snowman_without_snow",
+      "values": "⛄"
+  },
+  {
+      "key": "comet",
+      "values": "☄️"
+  },
+  {
+      "key": "fire",
+      "values": "🔥"
+  },
+  {
+      "key": "droplet",
+      "values": "💧"
+  },
+  {
+      "key": "ocean",
+      "values": "🌊"
+  },
+  {
+      "key": "jack_o_lantern",
+      "values": "🎃"
+  },
+  {
+      "key": "christmas_tree",
+      "values": "🎄"
+  },
+  {
+      "key": "fireworks",
+      "values": "🎆"
+  },
+  {
+      "key": "sparkler",
+      "values": "🎇"
+  },
+  {
+      "key": "firecracker",
+      "values": "🧨"
+  },
+  {
+      "key": "sparkles",
+      "values": "✨"
+  },
+  {
+      "key": "balloon",
+      "values": "🎈"
+  },
+  {
+      "key": "tada",
+      "values": "🎉"
+  },
+  {
+      "key": "confetti_ball",
+      "values": "🎊"
+  },
+  {
+      "key": "tanabata_tree",
+      "values": "🎋"
+  },
+  {
+      "key": "bamboo",
+      "values": "🎍"
+  },
+  {
+      "key": "dolls",
+      "values": "🎎"
+  },
+  {
+      "key": "flags",
+      "values": "🎏"
+  },
+  {
+      "key": "wind_chime",
+      "values": "🎐"
+  },
+  {
+      "key": "rice_scene",
+      "values": "🎑"
+  },
+  {
+      "key": "red_envelope",
+      "values": "🧧"
+  },
+  {
+      "key": "ribbon",
+      "values": "🎀"
+  },
+  {
+      "key": "gift",
+      "values": "🎁"
+  },
+  {
+      "key": "reminder_ribbon",
+      "values": "🎗️"
+  },
+  {
+      "key": "admission_tickets",
+      "values": "🎟️"
+  },
+  {
+      "key": "ticket",
+      "values": "🎫"
+  },
+  {
+      "key": "medal",
+      "values": "🎖️"
+  },
+  {
+      "key": "trophy",
+      "values": "🏆"
+  },
+  {
+      "key": "sports_medal",
+      "values": "🏅"
+  },
+  {
+      "key": "first_place_medal",
+      "values": "🥇"
+  },
+  {
+      "key": "second_place_medal",
+      "values": "🥈"
+  },
+  {
+      "key": "third_place_medal",
+      "values": "🥉"
+  },
+  {
+      "key": "soccer",
+      "values": "⚽"
+  },
+  {
+      "key": "baseball",
+      "values": "⚾"
+  },
+  {
+      "key": "softball",
+      "values": "🥎"
+  },
+  {
+      "key": "basketball",
+      "values": "🏀"
+  },
+  {
+      "key": "volleyball",
+      "values": "🏐"
+  },
+  {
+      "key": "football",
+      "values": "🏈"
+  },
+  {
+      "key": "rugby_football",
+      "values": "🏉"
+  },
+  {
+      "key": "tennis",
+      "values": "🎾"
+  },
+  {
+      "key": "flying_disc",
+      "values": "🥏"
+  },
+  {
+      "key": "bowling",
+      "values": "🎳"
+  },
+  {
+      "key": "cricket_bat_and_ball",
+      "values": "🏏"
+  },
+  {
+      "key": "field_hockey_stick_and_ball",
+      "values": "🏑"
+  },
+  {
+      "key": "ice_hockey_stick_and_puck",
+      "values": "🏒"
+  },
+  {
+      "key": "lacrosse",
+      "values": "🥍"
+  },
+  {
+      "key": "table_tennis_paddle_and_ball",
+      "values": "🏓"
+  },
+  {
+      "key": "badminton_racquet_and_shuttlecock",
+      "values": "🏸"
+  },
+  {
+      "key": "boxing_glove",
+      "values": "🥊"
+  },
+  {
+      "key": "martial_arts_uniform",
+      "values": "🥋"
+  },
+  {
+      "key": "goal_net",
+      "values": "🥅"
+  },
+  {
+      "key": "golf",
+      "values": "⛳"
+  },
+  {
+      "key": "ice_skate",
+      "values": "⛸️"
+  },
+  {
+      "key": "fishing_pole_and_fish",
+      "values": "🎣"
+  },
+  {
+      "key": "diving_mask",
+      "values": "🤿"
+  },
+  {
+      "key": "running_shirt_with_sash",
+      "values": "🎽"
+  },
+  {
+      "key": "ski",
+      "values": "🎿"
+  },
+  {
+      "key": "sled",
+      "values": "🛷"
+  },
+  {
+      "key": "curling_stone",
+      "values": "🥌"
+  },
+  {
+      "key": "dart",
+      "values": "🎯"
+  },
+  {
+      "key": "yo-yo",
+      "values": "🪀"
+  },
+  {
+      "key": "kite",
+      "values": "🪁"
+  },
+  {
+      "key": "8ball",
+      "values": "🎱"
+  },
+  {
+      "key": "crystal_ball",
+      "values": "🔮"
+  },
+  {
+      "key": "magic_wand",
+      "values": "🪄"
+  },
+  {
+      "key": "nazar_amulet",
+      "values": "🧿"
+  },
+  {
+      "key": "hamsa",
+      "values": "🪬"
+  },
+  {
+      "key": "video_game",
+      "values": "🎮"
+  },
+  {
+      "key": "joystick",
+      "values": "🕹️"
+  },
+  {
+      "key": "slot_machine",
+      "values": "🎰"
+  },
+  {
+      "key": "game_die",
+      "values": "🎲"
+  },
+  {
+      "key": "jigsaw",
+      "values": "🧩"
+  },
+  {
+      "key": "teddy_bear",
+      "values": "🧸"
+  },
+  {
+      "key": "pinata",
+      "values": "🪅"
+  },
+  {
+      "key": "mirror_ball",
+      "values": "🪩"
+  },
+  {
+      "key": "nesting_dolls",
+      "values": "🪆"
+  },
+  {
+      "key": "spades",
+      "values": "♠️"
+  },
+  {
+      "key": "hearts",
+      "values": "♥️"
+  },
+  {
+      "key": "diamonds",
+      "values": "♦️"
+  },
+  {
+      "key": "clubs",
+      "values": "♣️"
+  },
+  {
+      "key": "chess_pawn",
+      "values": "♟️"
+  },
+  {
+      "key": "black_joker",
+      "values": "🃏"
+  },
+  {
+      "key": "mahjong",
+      "values": "🀄"
+  },
+  {
+      "key": "flower_playing_cards",
+      "values": "🎴"
+  },
+  {
+      "key": "performing_arts",
+      "values": "🎭"
+  },
+  {
+      "key": "frame_with_picture",
+      "values": "🖼️"
+  },
+  {
+      "key": "art",
+      "values": "🎨"
+  },
+  {
+      "key": "thread",
+      "values": "🧵"
+  },
+  {
+      "key": "sewing_needle",
+      "values": "🪡"
+  },
+  {
+      "key": "yarn",
+      "values": "🧶"
+  },
+  {
+      "key": "knot",
+      "values": "🪢"
+  },
+  {
+      "key": "eyeglasses",
+      "values": "👓"
+  },
+  {
+      "key": "dark_sunglasses",
+      "values": "🕶️"
+  },
+  {
+      "key": "goggles",
+      "values": "🥽"
+  },
+  {
+      "key": "lab_coat",
+      "values": "🥼"
+  },
+  {
+      "key": "safety_vest",
+      "values": "🦺"
+  },
+  {
+      "key": "necktie",
+      "values": "👔"
+  },
+  {
+      "key": "shirt",
+      "values": "👕"
+  },
+  {
+      "key": "jeans",
+      "values": "👖"
+  },
+  {
+      "key": "scarf",
+      "values": "🧣"
+  },
+  {
+      "key": "gloves",
+      "values": "🧤"
+  },
+  {
+      "key": "coat",
+      "values": "🧥"
+  },
+  {
+      "key": "socks",
+      "values": "🧦"
+  },
+  {
+      "key": "dress",
+      "values": "👗"
+  },
+  {
+      "key": "kimono",
+      "values": "👘"
+  },
+  {
+      "key": "sari",
+      "values": "🥻"
+  },
+  {
+      "key": "one-piece_swimsuit",
+      "values": "🩱"
+  },
+  {
+      "key": "briefs",
+      "values": "🩲"
+  },
+  {
+      "key": "shorts",
+      "values": "🩳"
+  },
+  {
+      "key": "bikini",
+      "values": "👙"
+  },
+  {
+      "key": "womans_clothes",
+      "values": "👚"
+  },
+  {
+      "key": "purse",
+      "values": "👛"
+  },
+  {
+      "key": "handbag",
+      "values": "👜"
+  },
+  {
+      "key": "pouch",
+      "values": "👝"
+  },
+  {
+      "key": "shopping_bags",
+      "values": "🛍️"
+  },
+  {
+      "key": "school_satchel",
+      "values": "🎒"
+  },
+  {
+      "key": "thong_sandal",
+      "values": "🩴"
+  },
+  {
+      "key": "mans_shoe",
+      "values": "👞"
+  },
+  {
+      "key": "athletic_shoe",
+      "values": "👟"
+  },
+  {
+      "key": "hiking_boot",
+      "values": "🥾"
+  },
+  {
+      "key": "womans_flat_shoe",
+      "values": "🥿"
+  },
+  {
+      "key": "high_heel",
+      "values": "👠"
+  },
+  {
+      "key": "sandal",
+      "values": "👡"
+  },
+  {
+      "key": "ballet_shoes",
+      "values": "🩰"
+  },
+  {
+      "key": "boot",
+      "values": "👢"
+  },
+  {
+      "key": "crown",
+      "values": "👑"
+  },
+  {
+      "key": "womans_hat",
+      "values": "👒"
+  },
+  {
+      "key": "tophat",
+      "values": "🎩"
+  },
+  {
+      "key": "mortar_board",
+      "values": "🎓"
+  },
+  {
+      "key": "billed_cap",
+      "values": "🧢"
+  },
+  {
+      "key": "military_helmet",
+      "values": "🪖"
+  },
+  {
+      "key": "helmet_with_white_cross",
+      "values": "⛑️"
+  },
+  {
+      "key": "prayer_beads",
+      "values": "📿"
+  },
+  {
+      "key": "lipstick",
+      "values": "💄"
+  },
+  {
+      "key": "ring",
+      "values": "💍"
+  },
+  {
+      "key": "gem",
+      "values": "💎"
+  },
+  {
+      "key": "mute",
+      "values": "🔇"
+  },
+  {
+      "key": "speaker",
+      "values": "🔈"
+  },
+  {
+      "key": "sound",
+      "values": "🔉"
+  },
+  {
+      "key": "loud_sound",
+      "values": "🔊"
+  },
+  {
+      "key": "loudspeaker",
+      "values": "📢"
+  },
+  {
+      "key": "mega",
+      "values": "📣"
+  },
+  {
+      "key": "postal_horn",
+      "values": "📯"
+  },
+  {
+      "key": "bell",
+      "values": "🔔"
+  },
+  {
+      "key": "no_bell",
+      "values": "🔕"
+  },
+  {
+      "key": "musical_score",
+      "values": "🎼"
+  },
+  {
+      "key": "musical_note",
+      "values": "🎵"
+  },
+  {
+      "key": "notes",
+      "values": "🎶"
+  },
+  {
+      "key": "studio_microphone",
+      "values": "🎙️"
+  },
+  {
+      "key": "level_slider",
+      "values": "🎚️"
+  },
+  {
+      "key": "control_knobs",
+      "values": "🎛️"
+  },
+  {
+      "key": "microphone",
+      "values": "🎤"
+  },
+  {
+      "key": "headphones",
+      "values": "🎧"
+  },
+  {
+      "key": "radio",
+      "values": "📻"
+  },
+  {
+      "key": "saxophone",
+      "values": "🎷"
+  },
+  {
+      "key": "accordion",
+      "values": "🪗"
+  },
+  {
+      "key": "guitar",
+      "values": "🎸"
+  },
+  {
+      "key": "musical_keyboard",
+      "values": "🎹"
+  },
+  {
+      "key": "trumpet",
+      "values": "🎺"
+  },
+  {
+      "key": "violin",
+      "values": "🎻"
+  },
+  {
+      "key": "banjo",
+      "values": "🪕"
+  },
+  {
+      "key": "drum_with_drumsticks",
+      "values": "🥁"
+  },
+  {
+      "key": "long_drum",
+      "values": "🪘"
+  },
+  {
+      "key": "iphone",
+      "values": "📱"
+  },
+  {
+      "key": "calling",
+      "values": "📲"
+  },
+  {
+      "key": "phone",
+      "values": "☎️"
+  },
+  {
+      "key": "telephone_receiver",
+      "values": "📞"
+  },
+  {
+      "key": "pager",
+      "values": "📟"
+  },
+  {
+      "key": "fax",
+      "values": "📠"
+  },
+  {
+      "key": "battery",
+      "values": "🔋"
+  },
+  {
+      "key": "low_battery",
+      "values": "🪫"
+  },
+  {
+      "key": "electric_plug",
+      "values": "🔌"
+  },
+  {
+      "key": "computer",
+      "values": "💻"
+  },
+  {
+      "key": "desktop_computer",
+      "values": "🖥️"
+  },
+  {
+      "key": "printer",
+      "values": "🖨️"
+  },
+  {
+      "key": "keyboard",
+      "values": "⌨️"
+  },
+  {
+      "key": "three_button_mouse",
+      "values": "🖱️"
+  },
+  {
+      "key": "trackball",
+      "values": "🖲️"
+  },
+  {
+      "key": "minidisc",
+      "values": "💽"
+  },
+  {
+      "key": "floppy_disk",
+      "values": "💾"
+  },
+  {
+      "key": "cd",
+      "values": "💿"
+  },
+  {
+      "key": "dvd",
+      "values": "📀"
+  },
+  {
+      "key": "abacus",
+      "values": "🧮"
+  },
+  {
+      "key": "movie_camera",
+      "values": "🎥"
+  },
+  {
+      "key": "film_frames",
+      "values": "🎞️"
+  },
+  {
+      "key": "film_projector",
+      "values": "📽️"
+  },
+  {
+      "key": "clapper",
+      "values": "🎬"
+  },
+  {
+      "key": "tv",
+      "values": "📺"
+  },
+  {
+      "key": "camera",
+      "values": "📷"
+  },
+  {
+      "key": "camera_with_flash",
+      "values": "📸"
+  },
+  {
+      "key": "video_camera",
+      "values": "📹"
+  },
+  {
+      "key": "vhs",
+      "values": "📼"
+  },
+  {
+      "key": "mag",
+      "values": "🔍"
+  },
+  {
+      "key": "mag_right",
+      "values": "🔎"
+  },
+  {
+      "key": "candle",
+      "values": "🕯️"
+  },
+  {
+      "key": "bulb",
+      "values": "💡"
+  },
+  {
+      "key": "flashlight",
+      "values": "🔦"
+  },
+  {
+      "key": "izakaya_lantern",
+      "values": "🏮"
+  },
+  {
+      "key": "diya_lamp",
+      "values": "🪔"
+  },
+  {
+      "key": "notebook_with_decorative_cover",
+      "values": "📔"
+  },
+  {
+      "key": "closed_book",
+      "values": "📕"
+  },
+  {
+      "key": "book",
+      "values": "📖"
+  },
+  {
+      "key": "green_book",
+      "values": "📗"
+  },
+  {
+      "key": "blue_book",
+      "values": "📘"
+  },
+  {
+      "key": "orange_book",
+      "values": "📙"
+  },
+  {
+      "key": "books",
+      "values": "📚"
+  },
+  {
+      "key": "notebook",
+      "values": "📓"
+  },
+  {
+      "key": "ledger",
+      "values": "📒"
+  },
+  {
+      "key": "page_with_curl",
+      "values": "📃"
+  },
+  {
+      "key": "scroll",
+      "values": "📜"
+  },
+  {
+      "key": "page_facing_up",
+      "values": "📄"
+  },
+  {
+      "key": "newspaper",
+      "values": "📰"
+  },
+  {
+      "key": "rolled_up_newspaper",
+      "values": "🗞️"
+  },
+  {
+      "key": "bookmark_tabs",
+      "values": "📑"
+  },
+  {
+      "key": "bookmark",
+      "values": "🔖"
+  },
+  {
+      "key": "label",
+      "values": "🏷️"
+  },
+  {
+      "key": "moneybag",
+      "values": "💰"
+  },
+  {
+      "key": "coin",
+      "values": "🪙"
+  },
+  {
+      "key": "yen",
+      "values": "💴"
+  },
+  {
+      "key": "dollar",
+      "values": "💵"
+  },
+  {
+      "key": "euro",
+      "values": "💶"
+  },
+  {
+      "key": "pound",
+      "values": "💷"
+  },
+  {
+      "key": "money_with_wings",
+      "values": "💸"
+  },
+  {
+      "key": "credit_card",
+      "values": "💳"
+  },
+  {
+      "key": "receipt",
+      "values": "🧾"
+  },
+  {
+      "key": "chart",
+      "values": "💹"
+  },
+  {
+      "key": "email",
+      "values": "✉️"
+  },
+  {
+      "key": "e-mail",
+      "values": "📧"
+  },
+  {
+      "key": "incoming_envelope",
+      "values": "📨"
+  },
+  {
+      "key": "envelope_with_arrow",
+      "values": "📩"
+  },
+  {
+      "key": "outbox_tray",
+      "values": "📤"
+  },
+  {
+      "key": "inbox_tray",
+      "values": "📥"
+  },
+  {
+      "key": "package",
+      "values": "📦"
+  },
+  {
+      "key": "mailbox",
+      "values": "📫"
+  },
+  {
+      "key": "mailbox_closed",
+      "values": "📪"
+  },
+  {
+      "key": "mailbox_with_mail",
+      "values": "📬"
+  },
+  {
+      "key": "mailbox_with_no_mail",
+      "values": "📭"
+  },
+  {
+      "key": "postbox",
+      "values": "📮"
+  },
+  {
+      "key": "ballot_box_with_ballot",
+      "values": "🗳️"
+  },
+  {
+      "key": "pencil2",
+      "values": "✏️"
+  },
+  {
+      "key": "black_nib",
+      "values": "✒️"
+  },
+  {
+      "key": "lower_left_fountain_pen",
+      "values": "🖋️"
+  },
+  {
+      "key": "lower_left_ballpoint_pen",
+      "values": "🖊️"
+  },
+  {
+      "key": "lower_left_paintbrush",
+      "values": "🖌️"
+  },
+  {
+      "key": "lower_left_crayon",
+      "values": "🖍️"
+  },
+  {
+      "key": "memo",
+      "values": "📝"
+  },
+  {
+      "key": "briefcase",
+      "values": "💼"
+  },
+  {
+      "key": "file_folder",
+      "values": "📁"
+  },
+  {
+      "key": "open_file_folder",
+      "values": "📂"
+  },
+  {
+      "key": "card_index_dividers",
+      "values": "🗂️"
+  },
+  {
+      "key": "date",
+      "values": "📅"
+  },
+  {
+      "key": "calendar",
+      "values": "📆"
+  },
+  {
+      "key": "spiral_note_pad",
+      "values": "🗒️"
+  },
+  {
+      "key": "spiral_calendar_pad",
+      "values": "🗓️"
+  },
+  {
+      "key": "card_index",
+      "values": "📇"
+  },
+  {
+      "key": "chart_with_upwards_trend",
+      "values": "📈"
+  },
+  {
+      "key": "chart_with_downwards_trend",
+      "values": "📉"
+  },
+  {
+      "key": "bar_chart",
+      "values": "📊"
+  },
+  {
+      "key": "clipboard",
+      "values": "📋"
+  },
+  {
+      "key": "pushpin",
+      "values": "📌"
+  },
+  {
+      "key": "round_pushpin",
+      "values": "📍"
+  },
+  {
+      "key": "paperclip",
+      "values": "📎"
+  },
+  {
+      "key": "linked_paperclips",
+      "values": "🖇️"
+  },
+  {
+      "key": "straight_ruler",
+      "values": "📏"
+  },
+  {
+      "key": "triangular_ruler",
+      "values": "📐"
+  },
+  {
+      "key": "scissors",
+      "values": "✂️"
+  },
+  {
+      "key": "card_file_box",
+      "values": "🗃️"
+  },
+  {
+      "key": "file_cabinet",
+      "values": "🗄️"
+  },
+  {
+      "key": "wastebasket",
+      "values": "🗑️"
+  },
+  {
+      "key": "lock",
+      "values": "🔒"
+  },
+  {
+      "key": "unlock",
+      "values": "🔓"
+  },
+  {
+      "key": "lock_with_ink_pen",
+      "values": "🔏"
+  },
+  {
+      "key": "closed_lock_with_key",
+      "values": "🔐"
+  },
+  {
+      "key": "key",
+      "values": "🔑"
+  },
+  {
+      "key": "old_key",
+      "values": "🗝️"
+  },
+  {
+      "key": "hammer",
+      "values": "🔨"
+  },
+  {
+      "key": "axe",
+      "values": "🪓"
+  },
+  {
+      "key": "pick",
+      "values": "⛏️"
+  },
+  {
+      "key": "hammer_and_pick",
+      "values": "⚒️"
+  },
+  {
+      "key": "hammer_and_wrench",
+      "values": "🛠️"
+  },
+  {
+      "key": "dagger_knife",
+      "values": "🗡️"
+  },
+  {
+      "key": "crossed_swords",
+      "values": "⚔️"
+  },
+  {
+      "key": "gun",
+      "values": "🔫"
+  },
+  {
+      "key": "boomerang",
+      "values": "🪃"
+  },
+  {
+      "key": "bow_and_arrow",
+      "values": "🏹"
+  },
+  {
+      "key": "shield",
+      "values": "🛡️"
+  },
+  {
+      "key": "carpentry_saw",
+      "values": "🪚"
+  },
+  {
+      "key": "wrench",
+      "values": "🔧"
+  },
+  {
+      "key": "screwdriver",
+      "values": "🪛"
+  },
+  {
+      "key": "nut_and_bolt",
+      "values": "🔩"
+  },
+  {
+      "key": "gear",
+      "values": "⚙️"
+  },
+  {
+      "key": "compression",
+      "values": "🗜️"
+  },
+  {
+      "key": "scales",
+      "values": "⚖️"
+  },
+  {
+      "key": "probing_cane",
+      "values": "🦯"
+  },
+  {
+      "key": "link",
+      "values": "🔗"
+  },
+  {
+      "key": "chains",
+      "values": "⛓️"
+  },
+  {
+      "key": "hook",
+      "values": "🪝"
+  },
+  {
+      "key": "toolbox",
+      "values": "🧰"
+  },
+  {
+      "key": "magnet",
+      "values": "🧲"
+  },
+  {
+      "key": "ladder",
+      "values": "🪜"
+  },
+  {
+      "key": "alembic",
+      "values": "⚗️"
+  },
+  {
+      "key": "test_tube",
+      "values": "🧪"
+  },
+  {
+      "key": "petri_dish",
+      "values": "🧫"
+  },
+  {
+      "key": "dna",
+      "values": "🧬"
+  },
+  {
+      "key": "microscope",
+      "values": "🔬"
+  },
+  {
+      "key": "telescope",
+      "values": "🔭"
+  },
+  {
+      "key": "satellite_antenna",
+      "values": "📡"
+  },
+  {
+      "key": "syringe",
+      "values": "💉"
+  },
+  {
+      "key": "drop_of_blood",
+      "values": "🩸"
+  },
+  {
+      "key": "pill",
+      "values": "💊"
+  },
+  {
+      "key": "adhesive_bandage",
+      "values": "🩹"
+  },
+  {
+      "key": "crutch",
+      "values": "🩼"
+  },
+  {
+      "key": "stethoscope",
+      "values": "🩺"
+  },
+  {
+      "key": "x-ray",
+      "values": "🩻"
+  },
+  {
+      "key": "door",
+      "values": "🚪"
+  },
+  {
+      "key": "elevator",
+      "values": "🛗"
+  },
+  {
+      "key": "mirror",
+      "values": "🪞"
+  },
+  {
+      "key": "window",
+      "values": "🪟"
+  },
+  {
+      "key": "bed",
+      "values": "🛏️"
+  },
+  {
+      "key": "couch_and_lamp",
+      "values": "🛋️"
+  },
+  {
+      "key": "chair",
+      "values": "🪑"
+  },
+  {
+      "key": "toilet",
+      "values": "🚽"
+  },
+  {
+      "key": "plunger",
+      "values": "🪠"
+  },
+  {
+      "key": "shower",
+      "values": "🚿"
+  },
+  {
+      "key": "bathtub",
+      "values": "🛁"
+  },
+  {
+      "key": "mouse_trap",
+      "values": "🪤"
+  },
+  {
+      "key": "razor",
+      "values": "🪒"
+  },
+  {
+      "key": "lotion_bottle",
+      "values": "🧴"
+  },
+  {
+      "key": "safety_pin",
+      "values": "🧷"
+  },
+  {
+      "key": "broom",
+      "values": "🧹"
+  },
+  {
+      "key": "basket",
+      "values": "🧺"
+  },
+  {
+      "key": "roll_of_paper",
+      "values": "🧻"
+  },
+  {
+      "key": "bucket",
+      "values": "🪣"
+  },
+  {
+      "key": "soap",
+      "values": "🧼"
+  },
+  {
+      "key": "bubbles",
+      "values": "🫧"
+  },
+  {
+      "key": "toothbrush",
+      "values": "🪥"
+  },
+  {
+      "key": "sponge",
+      "values": "🧽"
+  },
+  {
+      "key": "fire_extinguisher",
+      "values": "🧯"
+  },
+  {
+      "key": "shopping_trolley",
+      "values": "🛒"
+  },
+  {
+      "key": "smoking",
+      "values": "🚬"
+  },
+  {
+      "key": "coffin",
+      "values": "⚰️"
+  },
+  {
+      "key": "headstone",
+      "values": "🪦"
+  },
+  {
+      "key": "funeral_urn",
+      "values": "⚱️"
+  },
+  {
+      "key": "moyai",
+      "values": "🗿"
+  },
+  {
+      "key": "placard",
+      "values": "🪧"
+  },
+  {
+      "key": "identification_card",
+      "values": "🪪"
+  },
+  {
+      "key": "atm",
+      "values": "🏧"
+  },
+  {
+      "key": "put_litter_in_its_place",
+      "values": "🚮"
+  },
+  {
+      "key": "potable_water",
+      "values": "🚰"
+  },
+  {
+      "key": "wheelchair",
+      "values": "♿"
+  },
+  {
+      "key": "mens",
+      "values": "🚹"
+  },
+  {
+      "key": "womens",
+      "values": "🚺"
+  },
+  {
+      "key": "restroom",
+      "values": "🚻"
+  },
+  {
+      "key": "baby_symbol",
+      "values": "🚼"
+  },
+  {
+      "key": "wc",
+      "values": "🚾"
+  },
+  {
+      "key": "passport_control",
+      "values": "🛂"
+  },
+  {
+      "key": "customs",
+      "values": "🛃"
+  },
+  {
+      "key": "baggage_claim",
+      "values": "🛄"
+  },
+  {
+      "key": "left_luggage",
+      "values": "🛅"
+  },
+  {
+      "key": "warning",
+      "values": "⚠️"
+  },
+  {
+      "key": "children_crossing",
+      "values": "🚸"
+  },
+  {
+      "key": "no_entry",
+      "values": "⛔"
+  },
+  {
+      "key": "no_entry_sign",
+      "values": "🚫"
+  },
+  {
+      "key": "no_bicycles",
+      "values": "🚳"
+  },
+  {
+      "key": "no_smoking",
+      "values": "🚭"
+  },
+  {
+      "key": "do_not_litter",
+      "values": "🚯"
+  },
+  {
+      "key": "non-potable_water",
+      "values": "🚱"
+  },
+  {
+      "key": "no_pedestrians",
+      "values": "🚷"
+  },
+  {
+      "key": "no_mobile_phones",
+      "values": "📵"
+  },
+  {
+      "key": "underage",
+      "values": "🔞"
+  },
+  {
+      "key": "radioactive_sign",
+      "values": "☢️"
+  },
+  {
+      "key": "biohazard_sign",
+      "values": "☣️"
+  },
+  {
+      "key": "arrow_up",
+      "values": "⬆️"
+  },
+  {
+      "key": "arrow_upper_right",
+      "values": "↗️"
+  },
+  {
+      "key": "arrow_right",
+      "values": "➡️"
+  },
+  {
+      "key": "arrow_lower_right",
+      "values": "↘️"
+  },
+  {
+      "key": "arrow_down",
+      "values": "⬇️"
+  },
+  {
+      "key": "arrow_lower_left",
+      "values": "↙️"
+  },
+  {
+      "key": "arrow_left",
+      "values": "⬅️"
+  },
+  {
+      "key": "arrow_upper_left",
+      "values": "↖️"
+  },
+  {
+      "key": "arrow_up_down",
+      "values": "↕️"
+  },
+  {
+      "key": "left_right_arrow",
+      "values": "↔️"
+  },
+  {
+      "key": "leftwards_arrow_with_hook",
+      "values": "↩️"
+  },
+  {
+      "key": "arrow_right_hook",
+      "values": "↪️"
+  },
+  {
+      "key": "arrow_heading_up",
+      "values": "⤴️"
+  },
+  {
+      "key": "arrow_heading_down",
+      "values": "⤵️"
+  },
+  {
+      "key": "arrows_clockwise",
+      "values": "🔃"
+  },
+  {
+      "key": "arrows_counterclockwise",
+      "values": "🔄"
+  },
+  {
+      "key": "back",
+      "values": "🔙"
+  },
+  {
+      "key": "end",
+      "values": "🔚"
+  },
+  {
+      "key": "on",
+      "values": "🔛"
+  },
+  {
+      "key": "soon",
+      "values": "🔜"
+  },
+  {
+      "key": "top",
+      "values": "🔝"
+  },
+  {
+      "key": "place_of_worship",
+      "values": "🛐"
+  },
+  {
+      "key": "atom_symbol",
+      "values": "⚛️"
+  },
+  {
+      "key": "om_symbol",
+      "values": "🕉️"
+  },
+  {
+      "key": "star_of_david",
+      "values": "✡️"
+  },
+  {
+      "key": "wheel_of_dharma",
+      "values": "☸️"
+  },
+  {
+      "key": "yin_yang",
+      "values": "☯️"
+  },
+  {
+      "key": "latin_cross",
+      "values": "✝️"
+  },
+  {
+      "key": "orthodox_cross",
+      "values": "☦️"
+  },
+  {
+      "key": "star_and_crescent",
+      "values": "☪️"
+  },
+  {
+      "key": "peace_symbol",
+      "values": "☮️"
+  },
+  {
+      "key": "menorah_with_nine_branches",
+      "values": "🕎"
+  },
+  {
+      "key": "six_pointed_star",
+      "values": "🔯"
+  },
+  {
+      "key": "aries",
+      "values": "♈"
+  },
+  {
+      "key": "taurus",
+      "values": "♉"
+  },
+  {
+      "key": "gemini",
+      "values": "♊"
+  },
+  {
+      "key": "cancer",
+      "values": "♋"
+  },
+  {
+      "key": "leo",
+      "values": "♌"
+  },
+  {
+      "key": "virgo",
+      "values": "♍"
+  },
+  {
+      "key": "libra",
+      "values": "♎"
+  },
+  {
+      "key": "scorpius",
+      "values": "♏"
+  },
+  {
+      "key": "sagittarius",
+      "values": "♐"
+  },
+  {
+      "key": "capricorn",
+      "values": "♑"
+  },
+  {
+      "key": "aquarius",
+      "values": "♒"
+  },
+  {
+      "key": "pisces",
+      "values": "♓"
+  },
+  {
+      "key": "ophiuchus",
+      "values": "⛎"
+  },
+  {
+      "key": "twisted_rightwards_arrows",
+      "values": "🔀"
+  },
+  {
+      "key": "repeat",
+      "values": "🔁"
+  },
+  {
+      "key": "repeat_one",
+      "values": "🔂"
+  },
+  {
+      "key": "arrow_forward",
+      "values": "▶️"
+  },
+  {
+      "key": "fast_forward",
+      "values": "⏩"
+  },
+  {
+      "key": "black_right_pointing_double_triangle_with_vertical_bar",
+      "values": "⏭️"
+  },
+  {
+      "key": "black_right_pointing_triangle_with_double_vertical_bar",
+      "values": "⏯️"
+  },
+  {
+      "key": "arrow_backward",
+      "values": "◀️"
+  },
+  {
+      "key": "rewind",
+      "values": "⏪"
+  },
+  {
+      "key": "black_left_pointing_double_triangle_with_vertical_bar",
+      "values": "⏮️"
+  },
+  {
+      "key": "arrow_up_small",
+      "values": "🔼"
+  },
+  {
+      "key": "arrow_double_up",
+      "values": "⏫"
+  },
+  {
+      "key": "arrow_down_small",
+      "values": "🔽"
+  },
+  {
+      "key": "arrow_double_down",
+      "values": "⏬"
+  },
+  {
+      "key": "double_vertical_bar",
+      "values": "⏸️"
+  },
+  {
+      "key": "black_square_for_stop",
+      "values": "⏹️"
+  },
+  {
+      "key": "black_circle_for_record",
+      "values": "⏺️"
+  },
+  {
+      "key": "eject",
+      "values": "⏏️"
+  },
+  {
+      "key": "cinema",
+      "values": "🎦"
+  },
+  {
+      "key": "low_brightness",
+      "values": "🔅"
+  },
+  {
+      "key": "high_brightness",
+      "values": "🔆"
+  },
+  {
+      "key": "signal_strength",
+      "values": "📶"
+  },
+  {
+      "key": "vibration_mode",
+      "values": "📳"
+  },
+  {
+      "key": "mobile_phone_off",
+      "values": "📴"
+  },
+  {
+      "key": "female_sign",
+      "values": "♀️"
+  },
+  {
+      "key": "male_sign",
+      "values": "♂️"
+  },
+  {
+      "key": "transgender_symbol",
+      "values": "⚧️"
+  },
+  {
+      "key": "heavy_multiplication_x",
+      "values": "✖️"
+  },
+  {
+      "key": "heavy_plus_sign",
+      "values": "➕"
+  },
+  {
+      "key": "heavy_minus_sign",
+      "values": "➖"
+  },
+  {
+      "key": "heavy_division_sign",
+      "values": "➗"
+  },
+  {
+      "key": "heavy_equals_sign",
+      "values": "🟰"
+  },
+  {
+      "key": "infinity",
+      "values": "♾️"
+  },
+  {
+      "key": "bangbang",
+      "values": "‼️"
+  },
+  {
+      "key": "interrobang",
+      "values": "⁉️"
+  },
+  {
+      "key": "question",
+      "values": "❓"
+  },
+  {
+      "key": "grey_question",
+      "values": "❔"
+  },
+  {
+      "key": "grey_exclamation",
+      "values": "❕"
+  },
+  {
+      "key": "exclamation",
+      "values": "❗"
+  },
+  {
+      "key": "wavy_dash",
+      "values": "〰️"
+  },
+  {
+      "key": "currency_exchange",
+      "values": "💱"
+  },
+  {
+      "key": "heavy_dollar_sign",
+      "values": "💲"
+  },
+  {
+      "key": "medical_symbol",
+      "values": "⚕️"
+  },
+  {
+      "key": "recycle",
+      "values": "♻️"
+  },
+  {
+      "key": "fleur_de_lis",
+      "values": "⚜️"
+  },
+  {
+      "key": "trident",
+      "values": "🔱"
+  },
+  {
+      "key": "name_badge",
+      "values": "📛"
+  },
+  {
+      "key": "beginner",
+      "values": "🔰"
+  },
+  {
+      "key": "o",
+      "values": "⭕"
+  },
+  {
+      "key": "white_check_mark",
+      "values": "✅"
+  },
+  {
+      "key": "ballot_box_with_check",
+      "values": "☑️"
+  },
+  {
+      "key": "heavy_check_mark",
+      "values": "✔️"
+  },
+  {
+      "key": "x",
+      "values": "❌"
+  },
+  {
+      "key": "negative_squared_cross_mark",
+      "values": "❎"
+  },
+  {
+      "key": "curly_loop",
+      "values": "➰"
+  },
+  {
+      "key": "loop",
+      "values": "➿"
+  },
+  {
+      "key": "part_alternation_mark",
+      "values": "〽️"
+  },
+  {
+      "key": "eight_spoked_asterisk",
+      "values": "✳️"
+  },
+  {
+      "key": "eight_pointed_black_star",
+      "values": "✴️"
+  },
+  {
+      "key": "sparkle",
+      "values": "❇️"
+  },
+  {
+      "key": "copyright",
+      "values": "©️"
+  },
+  {
+      "key": "registered",
+      "values": "®️"
+  },
+  {
+      "key": "tm",
+      "values": "™️"
+  },
+  {
+      "key": "hash",
+      "values": "#️⃣"
+  },
+  {
+      "key": "keycap_star",
+      "values": "*️⃣"
+  },
+  {
+      "key": "zero",
+      "values": "0️⃣"
+  },
+  {
+      "key": "one",
+      "values": "1️⃣"
+  },
+  {
+      "key": "two",
+      "values": "2️⃣"
+  },
+  {
+      "key": "three",
+      "values": "3️⃣"
+  },
+  {
+      "key": "four",
+      "values": "4️⃣"
+  },
+  {
+      "key": "five",
+      "values": "5️⃣"
+  },
+  {
+      "key": "six",
+      "values": "6️⃣"
+  },
+  {
+      "key": "seven",
+      "values": "7️⃣"
+  },
+  {
+      "key": "eight",
+      "values": "8️⃣"
+  },
+  {
+      "key": "nine",
+      "values": "9️⃣"
+  },
+  {
+      "key": "keycap_ten",
+      "values": "🔟"
+  },
+  {
+      "key": "capital_abcd",
+      "values": "🔠"
+  },
+  {
+      "key": "abcd",
+      "values": "🔡"
+  },
+  {
+      "key": "symbols",
+      "values": "🔣"
+  },
+  {
+      "key": "abc",
+      "values": "🔤"
+  },
+  {
+      "key": "a",
+      "values": "🅰️"
+  },
+  {
+      "key": "ab",
+      "values": "🆎"
+  },
+  {
+      "key": "b",
+      "values": "🅱️"
+  },
+  {
+      "key": "cl",
+      "values": "🆑"
+  },
+  {
+      "key": "cool",
+      "values": "🆒"
+  },
+  {
+      "key": "free",
+      "values": "🆓"
+  },
+  {
+      "key": "information_source",
+      "values": "ℹ️"
+  },
+  {
+      "key": "id",
+      "values": "🆔"
+  },
+  {
+      "key": "m",
+      "values": "Ⓜ️"
+  },
+  {
+      "key": "new",
+      "values": "🆕"
+  },
+  {
+      "key": "ng",
+      "values": "🆖"
+  },
+  {
+      "key": "o2",
+      "values": "🅾️"
+  },
+  {
+      "key": "ok",
+      "values": "🆗"
+  },
+  {
+      "key": "parking",
+      "values": "🅿️"
+  },
+  {
+      "key": "sos",
+      "values": "🆘"
+  },
+  {
+      "key": "up",
+      "values": "🆙"
+  },
+  {
+      "key": "vs",
+      "values": "🆚"
+  },
+  {
+      "key": "koko",
+      "values": "🈁"
+  },
+  {
+      "key": "sa",
+      "values": "🈂️"
+  },
+  {
+      "key": "u6708",
+      "values": "🈷️"
+  },
+  {
+      "key": "u6709",
+      "values": "🈶"
+  },
+  {
+      "key": "u6307",
+      "values": "🈯"
+  },
+  {
+      "key": "ideograph_advantage",
+      "values": "🉐"
+  },
+  {
+      "key": "u5272",
+      "values": "🈹"
+  },
+  {
+      "key": "u7121",
+      "values": "🈚"
+  },
+  {
+      "key": "u7981",
+      "values": "🈲"
+  },
+  {
+      "key": "accept",
+      "values": "🉑"
+  },
+  {
+      "key": "u7533",
+      "values": "🈸"
+  },
+  {
+      "key": "u5408",
+      "values": "🈴"
+  },
+  {
+      "key": "u7a7a",
+      "values": "🈳"
+  },
+  {
+      "key": "congratulations",
+      "values": "㊗️"
+  },
+  {
+      "key": "secret",
+      "values": "㊙️"
+  },
+  {
+      "key": "u55b6",
+      "values": "🈺"
+  },
+  {
+      "key": "u6e80",
+      "values": "🈵"
+  },
+  {
+      "key": "red_circle",
+      "values": "🔴"
+  },
+  {
+      "key": "large_orange_circle",
+      "values": "🟠"
+  },
+  {
+      "key": "large_yellow_circle",
+      "values": "🟡"
+  },
+  {
+      "key": "large_green_circle",
+      "values": "🟢"
+  },
+  {
+      "key": "large_blue_circle",
+      "values": "🔵"
+  },
+  {
+      "key": "large_purple_circle",
+      "values": "🟣"
+  },
+  {
+      "key": "large_brown_circle",
+      "values": "🟤"
+  },
+  {
+      "key": "black_circle",
+      "values": "⚫"
+  },
+  {
+      "key": "white_circle",
+      "values": "⚪"
+  },
+  {
+      "key": "large_red_square",
+      "values": "🟥"
+  },
+  {
+      "key": "large_orange_square",
+      "values": "🟧"
+  },
+  {
+      "key": "large_yellow_square",
+      "values": "🟨"
+  },
+  {
+      "key": "large_green_square",
+      "values": "🟩"
+  },
+  {
+      "key": "large_blue_square",
+      "values": "🟦"
+  },
+  {
+      "key": "large_purple_square",
+      "values": "🟪"
+  },
+  {
+      "key": "large_brown_square",
+      "values": "🟫"
+  },
+  {
+      "key": "black_large_square",
+      "values": "⬛"
+  },
+  {
+      "key": "white_large_square",
+      "values": "⬜"
+  },
+  {
+      "key": "black_medium_square",
+      "values": "◼️"
+  },
+  {
+      "key": "white_medium_square",
+      "values": "◻️"
+  },
+  {
+      "key": "black_medium_small_square",
+      "values": "◾"
+  },
+  {
+      "key": "white_medium_small_square",
+      "values": "◽"
+  },
+  {
+      "key": "black_small_square",
+      "values": "▪️"
+  },
+  {
+      "key": "white_small_square",
+      "values": "▫️"
+  },
+  {
+      "key": "large_orange_diamond",
+      "values": "🔶"
+  },
+  {
+      "key": "large_blue_diamond",
+      "values": "🔷"
+  },
+  {
+      "key": "small_orange_diamond",
+      "values": "🔸"
+  },
+  {
+      "key": "small_blue_diamond",
+      "values": "🔹"
+  },
+  {
+      "key": "small_red_triangle",
+      "values": "🔺"
+  },
+  {
+      "key": "small_red_triangle_down",
+      "values": "🔻"
+  },
+  {
+      "key": "diamond_shape_with_a_dot_inside",
+      "values": "💠"
+  },
+  {
+      "key": "radio_button",
+      "values": "🔘"
+  },
+  {
+      "key": "white_square_button",
+      "values": "🔳"
+  },
+  {
+      "key": "black_square_button",
+      "values": "🔲"
+  },
+  {
+      "key": "checkered_flag",
+      "values": "🏁"
+  },
+  {
+      "key": "triangular_flag_on_post",
+      "values": "🚩"
+  },
+  {
+      "key": "crossed_flags",
+      "values": "🎌"
+  },
+  {
+      "key": "waving_black_flag",
+      "values": "🏴"
+  },
+  {
+      "key": "waving_white_flag",
+      "values": "🏳️"
+  },
+  {
+      "key": "rainbow-flag",
+      "values": "🏳️‍🌈"
+  },
+  {
+      "key": "transgender_flag",
+      "values": "🏳️‍⚧️"
+  },
+  {
+      "key": "pirate_flag",
+      "values": "🏴‍☠️"
+  },
+  {
+      "key": "flag-ac",
+      "values": "🇦🇨"
+  },
+  {
+      "key": "flag-ad",
+      "values": "🇦🇩"
+  },
+  {
+      "key": "flag-ae",
+      "values": "🇦🇪"
+  },
+  {
+      "key": "flag-af",
+      "values": "🇦🇫"
+  },
+  {
+      "key": "flag-ag",
+      "values": "🇦🇬"
+  },
+  {
+      "key": "flag-ai",
+      "values": "🇦🇮"
+  },
+  {
+      "key": "flag-al",
+      "values": "🇦🇱"
+  },
+  {
+      "key": "flag-am",
+      "values": "🇦🇲"
+  },
+  {
+      "key": "flag-ao",
+      "values": "🇦🇴"
+  },
+  {
+      "key": "flag-aq",
+      "values": "🇦🇶"
+  },
+  {
+      "key": "flag-ar",
+      "values": "🇦🇷"
+  },
+  {
+      "key": "flag-as",
+      "values": "🇦🇸"
+  },
+  {
+      "key": "flag-at",
+      "values": "🇦🇹"
+  },
+  {
+      "key": "flag-au",
+      "values": "🇦🇺"
+  },
+  {
+      "key": "flag-aw",
+      "values": "🇦🇼"
+  },
+  {
+      "key": "flag-ax",
+      "values": "🇦🇽"
+  },
+  {
+      "key": "flag-az",
+      "values": "🇦🇿"
+  },
+  {
+      "key": "flag-ba",
+      "values": "🇧🇦"
+  },
+  {
+      "key": "flag-bb",
+      "values": "🇧🇧"
+  },
+  {
+      "key": "flag-bd",
+      "values": "🇧🇩"
+  },
+  {
+      "key": "flag-be",
+      "values": "🇧🇪"
+  },
+  {
+      "key": "flag-bf",
+      "values": "🇧🇫"
+  },
+  {
+      "key": "flag-bg",
+      "values": "🇧🇬"
+  },
+  {
+      "key": "flag-bh",
+      "values": "🇧🇭"
+  },
+  {
+      "key": "flag-bi",
+      "values": "🇧🇮"
+  },
+  {
+      "key": "flag-bj",
+      "values": "🇧🇯"
+  },
+  {
+      "key": "flag-bl",
+      "values": "🇧🇱"
+  },
+  {
+      "key": "flag-bm",
+      "values": "🇧🇲"
+  },
+  {
+      "key": "flag-bn",
+      "values": "🇧🇳"
+  },
+  {
+      "key": "flag-bo",
+      "values": "🇧🇴"
+  },
+  {
+      "key": "flag-bq",
+      "values": "🇧🇶"
+  },
+  {
+      "key": "flag-br",
+      "values": "🇧🇷"
+  },
+  {
+      "key": "flag-bs",
+      "values": "🇧🇸"
+  },
+  {
+      "key": "flag-bt",
+      "values": "🇧🇹"
+  },
+  {
+      "key": "flag-bv",
+      "values": "🇧🇻"
+  },
+  {
+      "key": "flag-bw",
+      "values": "🇧🇼"
+  },
+  {
+      "key": "flag-by",
+      "values": "🇧🇾"
+  },
+  {
+      "key": "flag-bz",
+      "values": "🇧🇿"
+  },
+  {
+      "key": "flag-ca",
+      "values": "🇨🇦"
+  },
+  {
+      "key": "flag-cc",
+      "values": "🇨🇨"
+  },
+  {
+      "key": "flag-cd",
+      "values": "🇨🇩"
+  },
+  {
+      "key": "flag-cf",
+      "values": "🇨🇫"
+  },
+  {
+      "key": "flag-cg",
+      "values": "🇨🇬"
+  },
+  {
+      "key": "flag-ch",
+      "values": "🇨🇭"
+  },
+  {
+      "key": "flag-ci",
+      "values": "🇨🇮"
+  },
+  {
+      "key": "flag-ck",
+      "values": "🇨🇰"
+  },
+  {
+      "key": "flag-cl",
+      "values": "🇨🇱"
+  },
+  {
+      "key": "flag-cm",
+      "values": "🇨🇲"
+  },
+  {
+      "key": "cn",
+      "values": "🇨🇳"
+  },
+  {
+      "key": "flag-co",
+      "values": "🇨🇴"
+  },
+  {
+      "key": "flag-cp",
+      "values": "🇨🇵"
+  },
+  {
+      "key": "flag-cr",
+      "values": "🇨🇷"
+  },
+  {
+      "key": "flag-cu",
+      "values": "🇨🇺"
+  },
+  {
+      "key": "flag-cv",
+      "values": "🇨🇻"
+  },
+  {
+      "key": "flag-cw",
+      "values": "🇨🇼"
+  },
+  {
+      "key": "flag-cx",
+      "values": "🇨🇽"
+  },
+  {
+      "key": "flag-cy",
+      "values": "🇨🇾"
+  },
+  {
+      "key": "flag-cz",
+      "values": "🇨🇿"
+  },
+  {
+      "key": "de",
+      "values": "🇩🇪"
+  },
+  {
+      "key": "flag-dg",
+      "values": "🇩🇬"
+  },
+  {
+      "key": "flag-dj",
+      "values": "🇩🇯"
+  },
+  {
+      "key": "flag-dk",
+      "values": "🇩🇰"
+  },
+  {
+      "key": "flag-dm",
+      "values": "🇩🇲"
+  },
+  {
+      "key": "flag-do",
+      "values": "🇩🇴"
+  },
+  {
+      "key": "flag-dz",
+      "values": "🇩🇿"
+  },
+  {
+      "key": "flag-ea",
+      "values": "🇪🇦"
+  },
+  {
+      "key": "flag-ec",
+      "values": "🇪🇨"
+  },
+  {
+      "key": "flag-ee",
+      "values": "🇪🇪"
+  },
+  {
+      "key": "flag-eg",
+      "values": "🇪🇬"
+  },
+  {
+      "key": "flag-eh",
+      "values": "🇪🇭"
+  },
+  {
+      "key": "flag-er",
+      "values": "🇪🇷"
+  },
+  {
+      "key": "es",
+      "values": "🇪🇸"
+  },
+  {
+      "key": "flag-et",
+      "values": "🇪🇹"
+  },
+  {
+      "key": "flag-eu",
+      "values": "🇪🇺"
+  },
+  {
+      "key": "flag-fi",
+      "values": "🇫🇮"
+  },
+  {
+      "key": "flag-fj",
+      "values": "🇫🇯"
+  },
+  {
+      "key": "flag-fk",
+      "values": "🇫🇰"
+  },
+  {
+      "key": "flag-fm",
+      "values": "🇫🇲"
+  },
+  {
+      "key": "flag-fo",
+      "values": "🇫🇴"
+  },
+  {
+      "key": "fr",
+      "values": "🇫🇷"
+  },
+  {
+      "key": "flag-ga",
+      "values": "🇬🇦"
+  },
+  {
+      "key": "gb",
+      "values": "🇬🇧"
+  },
+  {
+      "key": "flag-gd",
+      "values": "🇬🇩"
+  },
+  {
+      "key": "flag-ge",
+      "values": "🇬🇪"
+  },
+  {
+      "key": "flag-gf",
+      "values": "🇬🇫"
+  },
+  {
+      "key": "flag-gg",
+      "values": "🇬🇬"
+  },
+  {
+      "key": "flag-gh",
+      "values": "🇬🇭"
+  },
+  {
+      "key": "flag-gi",
+      "values": "🇬🇮"
+  },
+  {
+      "key": "flag-gl",
+      "values": "🇬🇱"
+  },
+  {
+      "key": "flag-gm",
+      "values": "🇬🇲"
+  },
+  {
+      "key": "flag-gn",
+      "values": "🇬🇳"
+  },
+  {
+      "key": "flag-gp",
+      "values": "🇬🇵"
+  },
+  {
+      "key": "flag-gq",
+      "values": "🇬🇶"
+  },
+  {
+      "key": "flag-gr",
+      "values": "🇬🇷"
+  },
+  {
+      "key": "flag-gs",
+      "values": "🇬🇸"
+  },
+  {
+      "key": "flag-gt",
+      "values": "🇬🇹"
+  },
+  {
+      "key": "flag-gu",
+      "values": "🇬🇺"
+  },
+  {
+      "key": "flag-gw",
+      "values": "🇬🇼"
+  },
+  {
+      "key": "flag-gy",
+      "values": "🇬🇾"
+  },
+  {
+      "key": "flag-hk",
+      "values": "🇭🇰"
+  },
+  {
+      "key": "flag-hm",
+      "values": "🇭🇲"
+  },
+  {
+      "key": "flag-hn",
+      "values": "🇭🇳"
+  },
+  {
+      "key": "flag-hr",
+      "values": "🇭🇷"
+  },
+  {
+      "key": "flag-ht",
+      "values": "🇭🇹"
+  },
+  {
+      "key": "flag-hu",
+      "values": "🇭🇺"
+  },
+  {
+      "key": "flag-ic",
+      "values": "🇮🇨"
+  },
+  {
+      "key": "flag-id",
+      "values": "🇮🇩"
+  },
+  {
+      "key": "flag-ie",
+      "values": "🇮🇪"
+  },
+  {
+      "key": "flag-il",
+      "values": "🇮🇱"
+  },
+  {
+      "key": "flag-im",
+      "values": "🇮🇲"
+  },
+  {
+      "key": "flag-in",
+      "values": "🇮🇳"
+  },
+  {
+      "key": "flag-io",
+      "values": "🇮🇴"
+  },
+  {
+      "key": "flag-iq",
+      "values": "🇮🇶"
+  },
+  {
+      "key": "flag-ir",
+      "values": "🇮🇷"
+  },
+  {
+      "key": "flag-is",
+      "values": "🇮🇸"
+  },
+  {
+      "key": "it",
+      "values": "🇮🇹"
+  },
+  {
+      "key": "flag-je",
+      "values": "🇯🇪"
+  },
+  {
+      "key": "flag-jm",
+      "values": "🇯🇲"
+  },
+  {
+      "key": "flag-jo",
+      "values": "🇯🇴"
+  },
+  {
+      "key": "jp",
+      "values": "🇯🇵"
+  },
+  {
+      "key": "flag-ke",
+      "values": "🇰🇪"
+  },
+  {
+      "key": "flag-kg",
+      "values": "🇰🇬"
+  },
+  {
+      "key": "flag-kh",
+      "values": "🇰🇭"
+  },
+  {
+      "key": "flag-ki",
+      "values": "🇰🇮"
+  },
+  {
+      "key": "flag-km",
+      "values": "🇰🇲"
+  },
+  {
+      "key": "flag-kn",
+      "values": "🇰🇳"
+  },
+  {
+      "key": "flag-kp",
+      "values": "🇰🇵"
+  },
+  {
+      "key": "kr",
+      "values": "🇰🇷"
+  },
+  {
+      "key": "flag-kw",
+      "values": "🇰🇼"
+  },
+  {
+      "key": "flag-ky",
+      "values": "🇰🇾"
+  },
+  {
+      "key": "flag-kz",
+      "values": "🇰🇿"
+  },
+  {
+      "key": "flag-la",
+      "values": "🇱🇦"
+  },
+  {
+      "key": "flag-lb",
+      "values": "🇱🇧"
+  },
+  {
+      "key": "flag-lc",
+      "values": "🇱🇨"
+  },
+  {
+      "key": "flag-li",
+      "values": "🇱🇮"
+  },
+  {
+      "key": "flag-lk",
+      "values": "🇱🇰"
+  },
+  {
+      "key": "flag-lr",
+      "values": "🇱🇷"
+  },
+  {
+      "key": "flag-ls",
+      "values": "🇱🇸"
+  },
+  {
+      "key": "flag-lt",
+      "values": "🇱🇹"
+  },
+  {
+      "key": "flag-lu",
+      "values": "🇱🇺"
+  },
+  {
+      "key": "flag-lv",
+      "values": "🇱🇻"
+  },
+  {
+      "key": "flag-ly",
+      "values": "🇱🇾"
+  },
+  {
+      "key": "flag-ma",
+      "values": "🇲🇦"
+  },
+  {
+      "key": "flag-mc",
+      "values": "🇲🇨"
+  },
+  {
+      "key": "flag-md",
+      "values": "🇲🇩"
+  },
+  {
+      "key": "flag-me",
+      "values": "🇲🇪"
+  },
+  {
+      "key": "flag-mf",
+      "values": "🇲🇫"
+  },
+  {
+      "key": "flag-mg",
+      "values": "🇲🇬"
+  },
+  {
+      "key": "flag-mh",
+      "values": "🇲🇭"
+  },
+  {
+      "key": "flag-mk",
+      "values": "🇲🇰"
+  },
+  {
+      "key": "flag-ml",
+      "values": "🇲🇱"
+  },
+  {
+      "key": "flag-mm",
+      "values": "🇲🇲"
+  },
+  {
+      "key": "flag-mn",
+      "values": "🇲🇳"
+  },
+  {
+      "key": "flag-mo",
+      "values": "🇲🇴"
+  },
+  {
+      "key": "flag-mp",
+      "values": "🇲🇵"
+  },
+  {
+      "key": "flag-mq",
+      "values": "🇲🇶"
+  },
+  {
+      "key": "flag-mr",
+      "values": "🇲🇷"
+  },
+  {
+      "key": "flag-ms",
+      "values": "🇲🇸"
+  },
+  {
+      "key": "flag-mt",
+      "values": "🇲🇹"
+  },
+  {
+      "key": "flag-mu",
+      "values": "🇲🇺"
+  },
+  {
+      "key": "flag-mv",
+      "values": "🇲🇻"
+  },
+  {
+      "key": "flag-mw",
+      "values": "🇲🇼"
+  },
+  {
+      "key": "flag-mx",
+      "values": "🇲🇽"
+  },
+  {
+      "key": "flag-my",
+      "values": "🇲🇾"
+  },
+  {
+      "key": "flag-mz",
+      "values": "🇲🇿"
+  },
+  {
+      "key": "flag-na",
+      "values": "🇳🇦"
+  },
+  {
+      "key": "flag-nc",
+      "values": "🇳🇨"
+  },
+  {
+      "key": "flag-ne",
+      "values": "🇳🇪"
+  },
+  {
+      "key": "flag-nf",
+      "values": "🇳🇫"
+  },
+  {
+      "key": "flag-ng",
+      "values": "🇳🇬"
+  },
+  {
+      "key": "flag-ni",
+      "values": "🇳🇮"
+  },
+  {
+      "key": "flag-nl",
+      "values": "🇳🇱"
+  },
+  {
+      "key": "flag-no",
+      "values": "🇳🇴"
+  },
+  {
+      "key": "flag-np",
+      "values": "🇳🇵"
+  },
+  {
+      "key": "flag-nr",
+      "values": "🇳🇷"
+  },
+  {
+      "key": "flag-nu",
+      "values": "🇳🇺"
+  },
+  {
+      "key": "flag-nz",
+      "values": "🇳🇿"
+  },
+  {
+      "key": "flag-om",
+      "values": "🇴🇲"
+  },
+  {
+      "key": "flag-pa",
+      "values": "🇵🇦"
+  },
+  {
+      "key": "flag-pe",
+      "values": "🇵🇪"
+  },
+  {
+      "key": "flag-pf",
+      "values": "🇵🇫"
+  },
+  {
+      "key": "flag-pg",
+      "values": "🇵🇬"
+  },
+  {
+      "key": "flag-ph",
+      "values": "🇵🇭"
+  },
+  {
+      "key": "flag-pk",
+      "values": "🇵🇰"
+  },
+  {
+      "key": "flag-pl",
+      "values": "🇵🇱"
+  },
+  {
+      "key": "flag-pm",
+      "values": "🇵🇲"
+  },
+  {
+      "key": "flag-pn",
+      "values": "🇵🇳"
+  },
+  {
+      "key": "flag-pr",
+      "values": "🇵🇷"
+  },
+  {
+      "key": "flag-ps",
+      "values": "🇵🇸"
+  },
+  {
+      "key": "flag-pt",
+      "values": "🇵🇹"
+  },
+  {
+      "key": "flag-pw",
+      "values": "🇵🇼"
+  },
+  {
+      "key": "flag-py",
+      "values": "🇵🇾"
+  },
+  {
+      "key": "flag-qa",
+      "values": "🇶🇦"
+  },
+  {
+      "key": "flag-re",
+      "values": "🇷🇪"
+  },
+  {
+      "key": "flag-ro",
+      "values": "🇷🇴"
+  },
+  {
+      "key": "flag-rs",
+      "values": "🇷🇸"
+  },
+  {
+      "key": "ru",
+      "values": "🇷🇺"
+  },
+  {
+      "key": "flag-rw",
+      "values": "🇷🇼"
+  },
+  {
+      "key": "flag-sa",
+      "values": "🇸🇦"
+  },
+  {
+      "key": "flag-sb",
+      "values": "🇸🇧"
+  },
+  {
+      "key": "flag-sc",
+      "values": "🇸🇨"
+  },
+  {
+      "key": "flag-sd",
+      "values": "🇸🇩"
+  },
+  {
+      "key": "flag-se",
+      "values": "🇸🇪"
+  },
+  {
+      "key": "flag-sg",
+      "values": "🇸🇬"
+  },
+  {
+      "key": "flag-sh",
+      "values": "🇸🇭"
+  },
+  {
+      "key": "flag-si",
+      "values": "🇸🇮"
+  },
+  {
+      "key": "flag-sj",
+      "values": "🇸🇯"
+  },
+  {
+      "key": "flag-sk",
+      "values": "🇸🇰"
+  },
+  {
+      "key": "flag-sl",
+      "values": "🇸🇱"
+  },
+  {
+      "key": "flag-sm",
+      "values": "🇸🇲"
+  },
+  {
+      "key": "flag-sn",
+      "values": "🇸🇳"
+  },
+  {
+      "key": "flag-so",
+      "values": "🇸🇴"
+  },
+  {
+      "key": "flag-sr",
+      "values": "🇸🇷"
+  },
+  {
+      "key": "flag-ss",
+      "values": "🇸🇸"
+  },
+  {
+      "key": "flag-st",
+      "values": "🇸🇹"
+  },
+  {
+      "key": "flag-sv",
+      "values": "🇸🇻"
+  },
+  {
+      "key": "flag-sx",
+      "values": "🇸🇽"
+  },
+  {
+      "key": "flag-sy",
+      "values": "🇸🇾"
+  },
+  {
+      "key": "flag-sz",
+      "values": "🇸🇿"
+  },
+  {
+      "key": "flag-ta",
+      "values": "🇹🇦"
+  },
+  {
+      "key": "flag-tc",
+      "values": "🇹🇨"
+  },
+  {
+      "key": "flag-td",
+      "values": "🇹🇩"
+  },
+  {
+      "key": "flag-tf",
+      "values": "🇹🇫"
+  },
+  {
+      "key": "flag-tg",
+      "values": "🇹🇬"
+  },
+  {
+      "key": "flag-th",
+      "values": "🇹🇭"
+  },
+  {
+      "key": "flag-tj",
+      "values": "🇹🇯"
+  },
+  {
+      "key": "flag-tk",
+      "values": "🇹🇰"
+  },
+  {
+      "key": "flag-tl",
+      "values": "🇹🇱"
+  },
+  {
+      "key": "flag-tm",
+      "values": "🇹🇲"
+  },
+  {
+      "key": "flag-tn",
+      "values": "🇹🇳"
+  },
+  {
+      "key": "flag-to",
+      "values": "🇹🇴"
+  },
+  {
+      "key": "flag-tr",
+      "values": "🇹🇷"
+  },
+  {
+      "key": "flag-tt",
+      "values": "🇹🇹"
+  },
+  {
+      "key": "flag-tv",
+      "values": "🇹🇻"
+  },
+  {
+      "key": "flag-tw",
+      "values": "🇹🇼"
+  },
+  {
+      "key": "flag-tz",
+      "values": "🇹🇿"
+  },
+  {
+      "key": "flag-ua",
+      "values": "🇺🇦"
+  },
+  {
+      "key": "flag-ug",
+      "values": "🇺🇬"
+  },
+  {
+      "key": "flag-um",
+      "values": "🇺🇲"
+  },
+  {
+      "key": "flag-un",
+      "values": "🇺🇳"
+  },
+  {
+      "key": "us",
+      "values": "🇺🇸"
+  },
+  {
+      "key": "flag-uy",
+      "values": "🇺🇾"
+  },
+  {
+      "key": "flag-uz",
+      "values": "🇺🇿"
+  },
+  {
+      "key": "flag-va",
+      "values": "🇻🇦"
+  },
+  {
+      "key": "flag-vc",
+      "values": "🇻🇨"
+  },
+  {
+      "key": "flag-ve",
+      "values": "🇻🇪"
+  },
+  {
+      "key": "flag-vg",
+      "values": "🇻🇬"
+  },
+  {
+      "key": "flag-vi",
+      "values": "🇻🇮"
+  },
+  {
+      "key": "flag-vn",
+      "values": "🇻🇳"
+  },
+  {
+      "key": "flag-vu",
+      "values": "🇻🇺"
+  },
+  {
+      "key": "flag-wf",
+      "values": "🇼🇫"
+  },
+  {
+      "key": "flag-ws",
+      "values": "🇼🇸"
+  },
+  {
+      "key": "flag-xk",
+      "values": "🇽🇰"
+  },
+  {
+      "key": "flag-ye",
+      "values": "🇾🇪"
+  },
+  {
+      "key": "flag-yt",
+      "values": "🇾🇹"
+  },
+  {
+      "key": "flag-za",
+      "values": "🇿🇦"
+  },
+  {
+      "key": "flag-zm",
+      "values": "🇿🇲"
+  },
+  {
+      "key": "flag-zw",
+      "values": "🇿🇼"
+  },
+  {
+      "key": "flag-england",
+      "values": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+      "key": "flag-scotland",
+      "values": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+  },
+  {
+      "key": "flag-wales",
+      "values": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+  }
+]
