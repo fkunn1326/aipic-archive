@@ -8,6 +8,7 @@ import Link from "next/link";
 import { Card } from "@/components/card";
 import { Fragment } from "react";
 import { NextSeo } from "next-seo";
+import { getUrl } from "@/lib/utils";
 
 export const getStaticPaths = async () => {
   const artworks = (await import("../../data/artworks.json")).default;
@@ -49,7 +50,7 @@ const ImageSlide = ({ hrefs, id }: {
             }}>
           <img
             className='max-h-[90vh]'
-            src={hrefs?.[0]}
+            src={getUrl(hrefs?.[0])}
           ></img>
         </div>
       </SplideSlide>
@@ -59,7 +60,7 @@ const ImageSlide = ({ hrefs, id }: {
             <div className="flex justify-center items-center">
               <img
                 className='max-h-[90vh]'
-                src={item}
+                src={getUrl(item)}
               ></img>
             </div>
           </SplideSlide>
@@ -169,7 +170,7 @@ export default function Artwork({ safe, artwork, emojis }: InferGetStaticPropsTy
             </div>
             <Link href={`/users/${artwork?.profile.uid}`} className='flex gap-x-2 font-semibold items-center'>
               <img
-                src={artwork?.profile.avatar_url}
+                src={getUrl(artwork?.profile.avatar_url)}
                 className='object-cover aspect-square	w-8 h-8 rounded-full'
               ></img>
               {artwork?.profile.name}

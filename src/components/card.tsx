@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import { TransitionLink } from "./link"
 import Link from "next/link";
 import { Skeleton } from "@/components/ui/skeleton"
-import { cn } from "@/lib/utils";
+import { cn, getUrl } from "@/lib/utils";
 
 
 export const Card = ({ href, title, id, creator, avatar, user_id, blur=false, ranking }: {
@@ -50,7 +50,7 @@ export const Card = ({ href, title, id, creator, avatar, user_id, blur=false, ra
         }}>
           {isLoaded ?
             <img
-              src={href}
+              src={getUrl(href)}
               onLoad={() => {setIsLoadied(true)}}
               className={`object-cover aspect-square transition-transform duration-500 group-hover:scale-[1.1] ${blur ? "blur-md" : ""}`}
             ></img>
@@ -64,7 +64,7 @@ export const Card = ({ href, title, id, creator, avatar, user_id, blur=false, ra
         <Link href={`/users/${user_id}`}>
           <div className='flex gap-x-2 text-xs items-center mt-2'>
             <img
-              src={avatar}
+              src={getUrl(avatar)}
               className='object-cover aspect-square	w-5 h-5 rounded-full'
             ></img>
             {creator}
@@ -95,7 +95,7 @@ export const PCard = ({ href, prompt }: {
     <div className='relative overflow-hidden rounded-xl drop-shadow-[0_20px_20px_rgba(189,219,219,1.00)] group select-none cursor-pointer'>
       {isLoaded ?
         <img
-          src={href}
+          src={getUrl(href)}
           className='object-cover aspect-[9/16] transition-transform duration-500 group-hover:scale-[1.1] '
         ></img>
         :

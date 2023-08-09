@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Card } from "@/components/card";
 import { InferGetStaticPropsType } from "next";
 import { Fragment, use } from "react";
-import { sliceByNumber } from "@/lib/utils"
+import { getUrl, sliceByNumber } from "@/lib/utils"
 import { NextSeo } from 'next-seo';
 
 export const getStaticPaths = async () => {
@@ -61,13 +61,13 @@ export default function User({ user, userArtworks, length, idx }: InferGetStatic
       />
       <section className="space-y-8">
         <img
-          src={user?.header_url}
+          src={getUrl(user?.header_url)}
           className='object-cover w-full max-h-[40vh] rounded-xl'
         ></img>
         <div className="flex items-end gap-x-4">
           <Link href={`/users/${user?.uid}`} className='flex gap-x-4 text-xl font-semibold items-center'>
             <img
-              src={user?.avatar_url}
+              src={getUrl(user?.avatar_url)}
               className='object-cover aspect-square	w-10 h-10 rounded-full'
             ></img>
             {user?.name}
